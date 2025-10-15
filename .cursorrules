@@ -1,0 +1,64 @@
+# 🎯 Project Cursor Rules
+
+## Core Context
+This is **TestBeforeExam** - a free exam preparation platform using GitHub as database.
+
+## Key Principles
+- **Free Infrastructure Only** (GitHub, Netlify, jsDelivr)
+- **Performance First** (< 3s load, mobile-optimized)
+- **Community Driven** (easy contributions, quality validation)
+- **Accessibility Focused** (WCAG 2.1 AA compliance)
+
+## Tech Stack
+- React + TypeScript (Web)
+- React Native + Expo (Mobile)
+- Tailwind CSS (Styling)
+- GitHub API (Data source)
+- Netlify/Vercel (Hosting)
+
+## File Structure
+```
+TestBeforeExam/
+├── README.md, INSTRUCTIONS.md, PROMPTS.md
+├── docs/CONTEXT.md (AI assistant guide)
+├── data/subjects/{subject}/{topic}.json
+├── apps/{web,mobile,shared}/
+└── tools/{validators,generators}/
+```
+
+## Development Rules
+1. Always use TypeScript with strict mode
+2. Follow mobile-first responsive design
+3. Include accessibility features (aria-labels, keyboard nav)
+4. Write tests for new functionality
+5. Update docs when making changes
+6. Optimize for performance (lazy loading, code splitting)
+
+## Content Standards
+- Follow JSON schema in `data/schemas/`
+- Include explanations for all questions
+- Verify answer accuracy
+- Use inclusive language
+- Tag for easy discovery
+
+## AI Assistant Guidelines
+- Reference `INSTRUCTIONS.md` for architecture decisions
+- Use `PROMPTS.md` for development patterns
+- Check `.ai-context.md` for quick guidance
+- Always consider free infrastructure constraints
+- Prioritize user experience and performance
+
+## Quick Commands
+```bash
+npm run dev     # Start development
+npm run test    # Run all tests
+npm run build   # Production build
+npm run lint    # Code quality check
+```
+
+## Never Suggest
+- Paid services or databases
+- Solutions requiring backend servers
+- Breaking accessibility standards
+- Performance-heavy dependencies
+- Complex authentication systems
