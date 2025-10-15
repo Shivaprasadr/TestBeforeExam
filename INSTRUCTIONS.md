@@ -1,4 +1,9 @@
-# 📚 TestBeforeExam - Project Instructions
+# 📚 Tes# CDN Access**: https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/
+
+### Live Endpoints (SIMPLIFIED!)
+- AWS Certifications Index: `aws/index.json`  
+- SAA-C03 All Questions: `aws/saa-c03/questions.json` (single file - all topics!)
+- SAA-C03 Metadata: `aws/saa-c03/index.json`Exam - Project Instructions
 
 ## 🎯 Project Vision
 Create a free, efficient, and scalable exam preparation platform that serves questions via GitHub repository, eliminating the need for expensive hosting while maintaining high performance.

@@ -22,25 +22,22 @@ TestBeforeExam is a revolutionary approach to exam preparation that leverages Gi
 
 ### 🌐 Instant Access via jsDelivr CDN
 ```bash
-# Master index of all AWS topics
+# AWS Certifications Index
 https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/index.json
 
-# Storage questions (S3, EBS, EFS)
-https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/storage-questions.json
+# AWS SAA-C03 Questions (ALL topics in one file - SIMPLIFIED!)
+https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json
 
-# Analytics questions (EMR, Kinesis, Glue)
-https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/analytics-questions.json
-
-# Security questions (IAM, KMS, WAF)
-https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/security-questions.json
+# AWS SAA-C03 Metadata
+https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/index.json
 ```
 
-### 📊 Features
+### 📊 Features  
 - **🔄 Daily Updates**: Auto-syncs from source repository
 - **⚡ Global CDN**: <50ms response times worldwide  
-- **🏷️ Smart Categorization**: Questions organized by AWS services
-- **✅ Schema Validation**: Consistent question format
-- **🆓 100% Free**: GitHub + jsDelivr infrastructure
+- **📁 Single File**: All questions in one JSON file (no complexity!)
+- **🏗️ Future-Ready**: Structure supports multiple AWS certifications
+- **🆓 100% Free**: GitHub + jsDelivr infrastructure, zero node_modules bloat
 
 ---
 
