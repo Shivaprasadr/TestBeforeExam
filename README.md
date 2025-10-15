@@ -26,13 +26,13 @@ TestBeforeExam is a revolutionary approach to exam preparation that leverages Gi
 https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/index.json
 
 # Storage questions (S3, EBS, EFS)
-https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/storage/storage-questions.json
+https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/storage-questions.json
 
 # Analytics questions (EMR, Kinesis, Glue)
-https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/analytics/analytics-questions.json
+https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/analytics-questions.json
 
 # Security questions (IAM, KMS, WAF)
-https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/security/security-questions.json
+https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/security-questions.json
 ```
 
 ### 📊 Features
