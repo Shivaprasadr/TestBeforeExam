@@ -22,11 +22,11 @@ TestBeforeExam is a revolutionary approach to exam preparation that leverages Gi
 
 ### 🌐 Instant Access via jsDelivr CDN
 ```bash
-# AWS Certifications Index
-https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/index.json
-
-# AWS SAA-C03 Questions (ALL topics in one file - SIMPLIFIED!)
+# AWS SAA-C03 Questions (ALL 529 questions in one file - SIMPLIFIED!)
 https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json
+
+# AWS SAA-C03 Index & Metadata
+https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/index.json
 
 # AWS SAA-C03 Metadata
 https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/index.json

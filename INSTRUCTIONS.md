@@ -43,17 +43,11 @@ TestBeforeExam/
 │   ├── CONTRIBUTING.md     # Contribution guidelines
 │   └── DEPLOYMENT.md       # Deployment instructions
 ├── data/                   # Exam questions and content
-│   ├── subjects/           # Organized by subjects
-│   ├── formats/            # Different question formats
-│   └── schemas/            # Data validation schemas
-├── apps/                   # Application source code
-│   ├── web/               # Web application
-│   ├── mobile/            # Mobile application
-│   └── shared/            # Shared logic and components
-└── tools/                 # Development and automation tools
-    ├── validators/        # Data validation tools
-    ├── generators/        # Content generation tools
-    └── scripts/           # Utility scripts
+│   ├── subjects/           # Organized by subjects (AWS SAA-C03)
+│   ├── schemas/            # Data validation schemas
+│   ├── index.json          # Main repository index
+│   └── cdn-urls.json       # CDN endpoint references
+└── sync-records/           # Automation sync tracking
 ```
 
 ### Future Evolution Phases
@@ -78,11 +72,10 @@ TestBeforeExam/
 
 ### **Folder Structure Rules**
 - **Root level**: Only essential files (README, INSTRUCTIONS, PROMPTS, CONTRIBUTING, LICENSE)
-- **`.github/`**: GitHub templates only
-- **`data/`**: Question content and schemas
-- **`apps/`**: Application source code
-- **`tools/`**: Development utilities
-- **NO `docs/` folder**: All documentation in root-level files
+- **`.github/`**: GitHub workflows and templates
+- **`data/`**: Question content, schemas, and CDN configuration
+- **`sync-records/`**: Automation tracking files
+- **NO unnecessary folders**: Streamlined for GitHub Actions automation
 
 ## �🔄 Self-Evolution Guidelines
 
@@ -109,18 +102,18 @@ TestBeforeExam/
 - Automated validation on commits
 - Content organized in `data/subjects/{subject}/{topic}.json`
 
-### 2. Application Development
-- Progressive Web App (PWA) for web using React + TypeScript
-- React Native for mobile (using Expo)
-- Shared TypeScript codebase in `apps/shared/`
-- Component-driven development with Tailwind CSS
-- Vite for fast builds and hot reloading
+### 2. Content Processing
+- GitHub Actions workflow for automated question processing
+- Node.js inline processing (no local dependencies)
+- Single consolidated JSON file approach (529 questions)
+- Automated validation and schema compliance
+- Daily sync at 6:00 AM UTC
 
-### 3. Deployment Strategy
-- **Web App**: Netlify/Vercel (free tier) with automatic deployments
-- **Mobile App**: Expo Application Services for app store distribution
-- **API**: GitHub raw content API + jsDelivr CDN
-- **Content Delivery**: jsDelivr for global fast content access
+### 3. Content Delivery Strategy
+- **Primary CDN**: jsDelivr for global fast content access (<50ms)
+- **API Endpoints**: GitHub raw content API + CDN URLs
+- **Content Format**: JSON with standardized schema
+- **Global Availability**: Served from worldwide edge locations
 
 ### 4. Development Environment Setup
 ```bash
