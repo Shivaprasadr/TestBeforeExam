@@ -13,6 +13,11 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+# Workflow temporary files - NEVER COMMIT
+sync-records/
+temp-*/
+temp-aws-repo/
+
 # Logs
 logs/
 *.log

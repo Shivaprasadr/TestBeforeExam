@@ -8,12 +8,15 @@ on:
 jobs:
   sync-aws-questions:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true
         
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -179,6 +182,9 @@ jobs:
     - name: Commit and push changes
       if: steps.check_updates.outputs.needs_update == 'true'
       run: |
+        # Clean up temp directory before commit
+        rm -rf temp-aws-repo
+        
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
