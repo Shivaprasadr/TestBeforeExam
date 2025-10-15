@@ -3,8 +3,19 @@
 ## 🎯 Project Vision
 Create a free, efficient, and scalable exam preparation platform that serves questions via GitHub repository, eliminating the need for expensive hosting while maintaining high performance.
 
+## 🚀 AWS SAA-C03 Automation System - ACTIVE
+**Status**: ✅ Deployed and Operational
+**Daily Sync**: 6:00 AM UTC from https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution.git
+**CDN Access**: https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/
+
+### Live Endpoints
+- Master Index: `index.json`
+- Storage Questions: `storage/storage-questions.json`
+- Analytics Questions: `analytics/analytics-questions.json`  
+- Security Questions: `security/security-questions.json`
+
 ## 🏗️ Architecture Philosophy
-- **Free & Efficient**: Leverage free services (GitHub, Netlify, Vercel, etc.)
+- **Free & Efficient**: Leverage free services (GitHub, Netlify, Vercel, jsDelivr CDN)
 - **Simple & Scalable**: Minimal complexity, maximum efficiency
 - **Git-Based Content**: Use GitHub as the primary data source
 - **Multi-Platform**: One codebase for web and mobile apps

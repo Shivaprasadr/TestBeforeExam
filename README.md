@@ -16,18 +16,46 @@ TestBeforeExam is a revolutionary approach to exam preparation that leverages Gi
 
 ---
 
+## 🚀 AWS SAA-C03 Automation - LIVE NOW!
+
+**✅ Active Daily Sync**: Automatically updates AWS Certified Solutions Architect Associate questions every day at 6:00 AM UTC
+
+### 🌐 Instant Access via jsDelivr CDN
+```bash
+# Master index of all AWS topics
+https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/index.json
+
+# Storage questions (S3, EBS, EFS)
+https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/storage/storage-questions.json
+
+# Analytics questions (EMR, Kinesis, Glue)
+https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/analytics/analytics-questions.json
+
+# Security questions (IAM, KMS, WAF)
+https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/security/security-questions.json
+```
+
+### 📊 Features
+- **🔄 Daily Updates**: Auto-syncs from source repository
+- **⚡ Global CDN**: <50ms response times worldwide  
+- **🏷️ Smart Categorization**: Questions organized by AWS services
+- **✅ Schema Validation**: Consistent question format
+- **🆓 100% Free**: GitHub + jsDelivr infrastructure
+
+---
+
 ## ✨ Key Features
 
 ### 🎯 **For Students**
 - **Free Access**: No registration, no fees, no hidden costs
-- **Comprehensive Coverage**: Multiple subjects and exam types
-- **Progressive Learning**: Adaptive difficulty and personalized progress
-- **Offline Support**: Study anywhere, anytime
-- **Multi-Platform**: Web, mobile, and desktop applications
+- **Comprehensive Coverage**: AWS certifications with daily updates
+- **Progressive Learning**: Categorized by services and difficulty
+- **Global Performance**: Lightning-fast CDN delivery
+- **Multi-Platform**: Access via any HTTP client or browser
 
 ### 🏫 **For Educators**
-- **Easy Content Creation**: Simple tools to add and manage questions
-- **Quality Assurance**: Community-driven content validation
+- **Automated Content**: Daily sync from trusted sources
+- **Quality Assurance**: Schema validation and categorization
 - **Analytics Insights**: Understand student performance patterns
 - **Customizable Tests**: Create targeted assessments
 
