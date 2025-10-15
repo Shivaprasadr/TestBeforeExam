@@ -10,7 +10,7 @@ Create a free, efficient, and scalable exam preparation platform that serves que
 
 ## 🚀 AWS SAA-C03 Automation System - ACTIVE
 **Status**: ✅ Deployed and Operational
-**Daily Sync**: 6:00 AM UTC from https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution.git
+**Daily Sync**: 6:00 AM UTC from external AWS question source
 **CDN Access**: https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/
 
 ### Live Endpoints

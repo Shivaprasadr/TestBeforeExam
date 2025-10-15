@@ -15,9 +15,9 @@ Secret Value: [PATH_TO_QUESTIONS_FILE]
 2. Click "New repository secret" 
 3. Add each secret with the exact name and your actual values
 
-## Current Values (for reference):
-- SOURCE_URL: https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution.git
-- SOURCE_FILE: AWS SAA-03 Solution.txt
+## Example Values (replace with your actual source):
+- SOURCE_URL: https://github.com/[USERNAME]/[REPOSITORY].git
+- SOURCE_FILE: [PATH_TO_YOUR_QUESTIONS_FILE]
 
 ## Benefits:
 - ✅ Source repository kept private
