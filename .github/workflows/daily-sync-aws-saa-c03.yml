@@ -64,7 +64,7 @@ jobs:
     - name: Process AWS questions (parse actual source)
       if: steps.check_updates.outputs.needs_update == 'true'
       run: |
-        # Enhanced processor to parse the actual AWS solution file
+        # Enhanced processor to parse AWS solution file with proper multiple choice extraction
         node -e "
         const fs = require('fs');
         const path = require('path');
@@ -85,66 +85,171 @@ jobs:
         const content = fs.readFileSync(sourceFile, 'utf8');
         console.log('📄 Source file loaded:', content.length, 'characters');
         
-        // Parse questions using pattern matching
-        const questions = [];
+        // Split content by question separators (lines with dashes or question numbers)
+        let questionBlocks = [];
         const lines = content.split('\n');
-        let currentQuestion = null;
-        let questionCounter = 0;
+        let currentBlock = [];
         
         for (let i = 0; i < lines.length; i++) {
           const line = lines[i].trim();
           
-          // Detect question start (number followed by ])
-          const questionMatch = line.match(/^(\d+)\]\s*(.+)/);
-          if (questionMatch) {
-            // Save previous question if exists
-            if (currentQuestion && currentQuestion.question) {
-              currentQuestion.id = 'aws-saa-c03-' + String(questionCounter).padStart(3, '0');
-              questions.push(currentQuestion);
+          // Check if this is a new question start
+          if (/^\d+\]\s/.test(line) && currentBlock.length > 0) {
+            // Save previous block
+            questionBlocks.push(currentBlock.join('\n'));
+            currentBlock = [line];
+          } else {
+            currentBlock.push(line);
+          }
+        }
+        
+        // Add final block
+        if (currentBlock.length > 0) {
+          questionBlocks.push(currentBlock.join('\n'));
+        }
+        
+        questionBlocks = questionBlocks.filter(block => block.trim() && /^\d+\]/.test(block.trim()));
+        const questions = [];
+        
+        console.log('📊 Found', questionBlocks.length, 'question blocks');
+        
+        questionBlocks.forEach((block, index) => {
+          const lines = block.split('\n').map(line => line.trim()).filter(line => line);
+          if (lines.length === 0) return;
+          
+          // Find question start (number followed by ])
+          let questionStartIndex = -1;
+          let questionNumber = 0;
+          let questionText = '';
+          
+          for (let i = 0; i < lines.length; i++) {
+            const match = lines[i].match(/^(\d+)\]\s*(.+)/);
+            if (match) {
+              questionStartIndex = i;
+              questionNumber = parseInt(match[1]);
+              questionText = match[2];
+              break;
+            }
+          }
+          
+          if (questionStartIndex === -1) return;
+          
+          // Extract question text (continue until we hit answer options or 'ans-')
+          let fullQuestion = questionText;
+          let i = questionStartIndex + 1;
+          
+          while (i < lines.length) {
+            const line = lines[i];
+            
+            // Stop if we hit answer line or multiple choice options
+            if (line.startsWith('ans-') || /^[A-D]\.\s/.test(line)) {
+              break;
             }
             
-            questionCounter++;
-            currentQuestion = {
-              id: '',
-              subject: 'cloud-computing',
-              examType: 'AWS-SAA-C03',
-              questionNumber: parseInt(questionMatch[1]),
-              question: questionMatch[2],
-              options: [],
-              correctAnswer: null,
-              explanation: '',
-              tags: [],
-              difficulty: 'intermediate',
-              lastUpdated: new Date().toISOString()
-            };
-            continue;
+            // Add question ending phrases
+            if (line === 'Which solution meets these requirements?' ||
+                line === 'What should the solutions architect do to meet these requirements?' ||
+                line === 'Which solution will meet these requirements?' ||
+                line.includes('Which combination of actions') ||
+                line.includes('What should a solutions architect do')) {
+              fullQuestion += ' ' + line;
+              break;
+            }
+            
+            // Add to question if it's substantial content
+            if (line.length > 10 && !line.startsWith('Keywords:') && !line.startsWith('General line:')) {
+              fullQuestion += ' ' + line;
+            }
+            i++;
           }
           
-          // Look for answer line
-          if (line.startsWith('ans-') && currentQuestion) {
-            const answerText = line.replace(/^ans-\s*/, '');
-            currentQuestion.correctAnswer = answerText;
-            currentQuestion.explanation = answerText;
-            continue;
-          }
+          // Look for answer line (ans-)
+          let correctAnswer = null;
+          let answerLetter = null;
+          let explanation = '';
           
-          // Collect question content
-          if (currentQuestion && line && !line.startsWith('---')) {
-            if (currentQuestion.question.length < 500) {
-              currentQuestion.question += ' ' + line;
-            } else if (currentQuestion.explanation.length < 1000) {
-              currentQuestion.explanation += ' ' + line;
+          for (let j = 0; j < lines.length; j++) {
+            const line = lines[j];
+            
+            if (line.startsWith('ans-')) {
+              const answerText = line.replace(/^ans-\s*/, '');
+              
+              // Check if answer starts with a letter (A., B., C., D.)
+              const letterMatch = answerText.match(/^([A-D])\.\s*(.+)/);
+              if (letterMatch) {
+                answerLetter = letterMatch[1];
+                correctAnswer = letterMatch[2];
+              } else {
+                correctAnswer = answerText;
+              }
+              
+              // Collect explanation from subsequent lines
+              for (let k = j + 1; k < lines.length; k++) {
+                const explainLine = lines[k];
+                if (explainLine && !explainLine.startsWith('---') && explainLine.length > 10) {
+                  explanation += (explanation ? ' ' : '') + explainLine;
+                }
+              }
+              break;
             }
           }
-        }
-        
-        // Add final question
-        if (currentQuestion && currentQuestion.question) {
-          currentQuestion.id = 'aws-saa-c03-' + String(questionCounter).padStart(3, '0');
-          questions.push(currentQuestion);
-        }
+          
+          // Extract multiple choice options if they exist
+          const options = [];
+          for (let j = 0; j < lines.length; j++) {
+            const line = lines[j];
+            const optionMatch = line.match(/^([A-D])\.\s*(.+)/);
+            if (optionMatch && !line.startsWith('ans-')) {
+              options.push({
+                letter: optionMatch[1],
+                text: optionMatch[2]
+              });
+            }
+          }
+          
+          // Determine difficulty based on content complexity
+          let difficulty = 'intermediate';
+          if (fullQuestion.includes('LEAST amount of operational overhead') || 
+              fullQuestion.includes('most cost-effective') ||
+              fullQuestion.includes('Multi-AZ') ||
+              fullQuestion.includes('CloudFormation')) {
+            difficulty = 'advanced';
+          } else if (fullQuestion.length < 200 && options.length <= 2) {
+            difficulty = 'beginner';
+          }
+          
+          // Extract tags from question content
+          const tags = [];
+          const services = ['S3', 'EC2', 'Lambda', 'RDS', 'VPC', 'CloudFront', 'Route53', 'ELB', 'Auto Scaling', 'IAM', 'SQS', 'SNS', 'Aurora', 'Athena'];
+          services.forEach(service => {
+            if (fullQuestion.includes(service) || correctAnswer?.includes(service) || explanation.includes(service)) {
+              tags.push(service.toLowerCase());
+            }
+          });
+          
+          const question = {
+            id: 'aws-saa-c03-' + String(questionNumber).padStart(3, '0'),
+            subject: 'cloud-computing',
+            examType: 'AWS-SAA-C03',
+            questionNumber: questionNumber,
+            question: fullQuestion.trim(),
+            options: options,
+            correctAnswer: correctAnswer,
+            correctAnswerLetter: answerLetter,
+            explanation: explanation.trim() || correctAnswer || 'No explanation provided',
+            tags: tags,
+            difficulty: difficulty,
+            lastUpdated: new Date().toISOString()
+          };
+          
+          if (question.question && question.question.length > 50) {
+            questions.push(question);
+          }
+        });
         
         console.log('✅ Parsed', questions.length, 'questions');
+        console.log('📊 Questions with options:', questions.filter(q => q.options.length > 0).length);
+        console.log('📊 Questions with correct answers:', questions.filter(q => q.correctAnswer).length);
         
         // Save questions
         const questionsFile = path.join(saac03Dir, 'questions.json');
@@ -168,6 +273,8 @@ jobs:
           },
           statistics: {
             questionsProcessed: questions.length,
+            questionsWithOptions: questions.filter(q => q.options.length > 0).length,
+            questionsWithAnswers: questions.filter(q => q.correctAnswer).length,
             sourceFileSize: content.length,
             processingDate: new Date().toISOString()
           }
