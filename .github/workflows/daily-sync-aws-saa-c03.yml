@@ -8,7 +8,6 @@ on:
 env:
   # Source repository configuration (keep private)
   SOURCE_REPO_URL: ${{ secrets.AWS_SAA_C03_SOURCE_URL }}
-  SOURCE_REPO_NAME: ${{ secrets.AWS_SAA_C03_SOURCE_NAME }}
   SOURCE_FILE_PATH: ${{ secrets.AWS_SAA_C03_SOURCE_FILE }}
 
 jobs:

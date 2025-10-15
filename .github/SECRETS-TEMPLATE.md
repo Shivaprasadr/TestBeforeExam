@@ -6,9 +6,6 @@
 Secret Name: AWS_SAA_C03_SOURCE_URL
 Secret Value: https://github.com/[USERNAME]/[REPOSITORY].git
 
-Secret Name: AWS_SAA_C03_SOURCE_NAME  
-Secret Value: [USERNAME]/[REPOSITORY]
-
 Secret Name: AWS_SAA_C03_SOURCE_FILE
 Secret Value: [PATH_TO_QUESTIONS_FILE]
 ```
@@ -20,7 +17,6 @@ Secret Value: [PATH_TO_QUESTIONS_FILE]
 
 ## Current Values (for reference):
 - SOURCE_URL: https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution.git
-- SOURCE_NAME: Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution  
 - SOURCE_FILE: AWS SAA-03 Solution.txt
 
 ## Benefits:
