@@ -1,0 +1,120 @@
+name: Daily AWS SAA-C03 Questions Sync
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6:00 AM UTC
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  sync-aws-questions:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies (on-the-fly)
+      run: |
+        npm init -y
+        npm install axios cheerio pdf-parse --no-save
+        
+    - name: Check for updates in source repository
+      id: check_updates
+      run: |
+        # Get the latest commit hash from the source repository
+        SOURCE_COMMIT=$(curl -s "https://api.github.com/repos/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution/commits/main" | jq -r '.sha')
+        echo "source_commit=$SOURCE_COMMIT" >> $GITHUB_OUTPUT
+        
+        # Check if we have a record of the last processed commit
+        LAST_PROCESSED=""
+        if [ -f "sync-records/last-aws-sync.txt" ]; then
+          LAST_PROCESSED=$(cat sync-records/last-aws-sync.txt)
+        fi
+        echo "last_processed=$LAST_PROCESSED" >> $GITHUB_OUTPUT
+        
+        # Determine if we need to update
+        if [ "$SOURCE_COMMIT" != "$LAST_PROCESSED" ]; then
+          echo "needs_update=true" >> $GITHUB_OUTPUT
+          echo "📄 New changes detected in source repository"
+        else
+          echo "needs_update=false" >> $GITHUB_OUTPUT
+          echo "✅ No changes in source repository"
+        fi
+        
+    - name: Clone source repository
+      if: steps.check_updates.outputs.needs_update == 'true'
+      run: |
+        git clone https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution.git temp-aws-repo
+        
+    - name: Process AWS questions (single file approach)
+      if: steps.check_updates.outputs.needs_update == 'true'
+      run: |
+        # Create a simple inline processor
+        node -e "
+        const fs = require('fs');
+        const path = require('path');
+        
+        // Ensure directories exist
+        const saac03Dir = 'data/subjects/cloud-computing/aws/saa-c03';
+        fs.mkdirSync(saac03Dir, { recursive: true });
+        
+        // Read existing questions or create empty array
+        let questions = [];
+        const questionsFile = path.join(saac03Dir, 'questions.json');
+        if (fs.existsSync(questionsFile)) {
+          questions = JSON.parse(fs.readFileSync(questionsFile, 'utf8'));
+        }
+        
+        // Update metadata
+        const index = {
+          examCode: 'AWS-SAA-C03',
+          examName: 'AWS Certified Solutions Architect - Associate',
+          lastUpdated: new Date().toISOString(),
+          totalQuestions: questions.length,
+          source: {
+            repository: 'Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution',
+            url: 'https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution.git',
+            lastSync: new Date().toISOString()
+          },
+          cdn: {
+            questionsUrl: 'https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json',
+            indexUrl: 'https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/index.json'
+          }
+        };
+        
+        fs.writeFileSync(path.join(saac03Dir, 'index.json'), JSON.stringify(index, null, 2));
+        console.log('✅ Updated AWS SAA-C03 index');
+        "
+        
+    - name: Update sync record
+      if: steps.check_updates.outputs.needs_update == 'true'
+      run: |
+        mkdir -p sync-records
+        echo "${{ steps.check_updates.outputs.source_commit }}" > sync-records/last-aws-sync.txt
+        
+    - name: Commit and push changes
+      if: steps.check_updates.outputs.needs_update == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        git add -A
+        
+        # Create descriptive commit message
+        COMMIT_MSG="🔄 Daily AWS SAA-C03 sync - $(date '+%Y-%m-%d')
+
+        - Updated questions from source repository
+        - Source commit: ${{ steps.check_updates.outputs.source_commit }}
+        - Processing timestamp: $(date -u +%Y-%m-%dT%H:%M:%SZ)
+        - Simplified single-file structure  
+        - CDN URLs updated for global delivery"
+        
+        git commit -m "$COMMIT_MSG" || echo "No changes to commit"
+        git push

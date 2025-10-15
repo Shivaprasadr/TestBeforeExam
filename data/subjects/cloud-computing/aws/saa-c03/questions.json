@@ -1,0 +1,120 @@
+[
+  {
+    "id": "aws-saa-c03-001",
+    "subject": "cloud-computing",
+    "topic": "storage",
+    "subtopic": "s3-transfer-acceleration",
+    "difficulty": "intermediate",
+    "examTypes": [
+      "AWS-SAA-C03",
+      "AWS-Solutions-Architect"
+    ],
+    "question": "A company collects data for temperature, humidity, and atmospheric pressure in cities across multiple continents. The average volume of data that the company collects from each site daily is 500 GB. Each site has a high-speed Internet connection. The company wants to aggregate the data from all these global sites as quickly as possible in a single Amazon S3 bucket. The solution must minimize operational complexity. Which solution meets these requirements?",
+    "questionType": "multiple-choice",
+    "options": [
+      "Turn on S3 Transfer Acceleration on the destination S3 bucket. Use multipart uploads to directly upload site data to the destination S3 bucket.",
+      "Use AWS DataSync to transfer data from each site to the destination S3 bucket.",
+      "Create an AWS Direct Connect connection between each site and AWS. Upload data to the destination S3 bucket.",
+      "Set up AWS Storage Gateway at each site to cache data locally before uploading to the destination S3 bucket."
+    ],
+    "correctAnswer": 0,
+    "explanation": "S3 Transfer Acceleration is ideal for long-distance transfers using Edge Locations. It can speed up content transfers to and from S3 by 50-500%. This solution works well for mobile & web application uploads and downloads, distributed office transfers, and data exchange with trusted partners.",
+    "tags": [
+      "s3",
+      "transfer-acceleration",
+      "global-distribution",
+      "performance",
+      "multipart-upload"
+    ],
+    "timeEstimate": 120,
+    "metadata": {
+      "createdAt": "2025-10-15T13:19:44.206Z",
+      "contributor": "automated-import",
+      "verified": true,
+      "source": "adapted",
+      "sourceRepo": "Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution",
+      "importDate": "2025-10-15",
+      "questionNumber": 1,
+      "originalAnswer": "A"
+    }
+  },
+  {
+    "id": "aws-saa-c03-002",
+    "subject": "cloud-computing",
+    "topic": "analytics",
+    "subtopic": "athena",
+    "difficulty": "beginner",
+    "examTypes": [
+      "AWS-SAA-C03",
+      "AWS-Solutions-Architect"
+    ],
+    "question": "A company needs the ability to analyze the log files of its proprietary application. The logs are stored in JSON format in an Amazon S3 bucket. Queries will be simple and will run on-demand. A solutions architect needs to perform the analysis with minimal changes to the existing architecture. What should the solutions architect do to meet these requirements with the LEAST amount of operational overhead?",
+    "questionType": "multiple-choice",
+    "options": [
+      "Use Amazon Athena directly with Amazon S3 to run the queries as needed.",
+      "Set up an Amazon EMR cluster and use Apache Spark to analyze the logs.",
+      "Load the logs into Amazon RDS and use SQL queries for analysis.",
+      "Create an Amazon Elasticsearch cluster and import the logs for analysis."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Amazon Athena is an interactive query service that makes it easy to analyze data directly in Amazon S3 using standard SQL. With a few actions in the AWS Management Console, you can point Athena at your data stored in S3 and begin using standard SQL to run ad-hoc queries and get results in seconds.",
+    "tags": [
+      "athena",
+      "s3",
+      "analytics",
+      "sql",
+      "serverless",
+      "json"
+    ],
+    "timeEstimate": 90,
+    "metadata": {
+      "createdAt": "2025-10-15T13:19:44.206Z",
+      "contributor": "automated-import",
+      "verified": true,
+      "source": "adapted",
+      "sourceRepo": "Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution",
+      "importDate": "2025-10-15",
+      "questionNumber": 2,
+      "originalAnswer": "A"
+    }
+  },
+  {
+    "id": "aws-saa-c03-003",
+    "subject": "cloud-computing",
+    "topic": "security",
+    "subtopic": "organizations",
+    "difficulty": "intermediate",
+    "examTypes": [
+      "AWS-SAA-C03",
+      "AWS-Solutions-Architect"
+    ],
+    "question": "A company uses AWS Organizations to manage multiple AWS accounts for different departments. The management account has an Amazon S3 bucket that contains project reports. The company wants to limit access to this S3 bucket to only users of accounts within the organization in AWS Organizations. Which solution meets these requirements with the LEAST amount of operational overhead?",
+    "questionType": "multiple-choice",
+    "options": [
+      "Add the aws:PrincipalOrgID global condition key with a reference to the organization ID to the S3 bucket policy.",
+      "Create an IAM role in each account and add the role ARNs to the S3 bucket policy.",
+      "Configure AWS Single Sign-On (SSO) and add the SSO users to the S3 bucket policy.",
+      "Create cross-account IAM roles and assume them from each department account."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The aws:PrincipalOrgID global condition key simplifies specifying the Principal element in a resource-based policy. This global key provides an alternative to listing all the account IDs for all AWS accounts in an organization. Instead of listing all accounts that are members of an organization, you can specify the organization ID in the Condition element.",
+    "tags": [
+      "organizations",
+      "s3",
+      "security",
+      "bucket-policy",
+      "principalorgid"
+    ],
+    "timeEstimate": 105,
+    "metadata": {
+      "createdAt": "2025-10-15T13:19:44.206Z",
+      "contributor": "automated-import",
+      "verified": true,
+      "source": "adapted",
+      "sourceRepo": "Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution",
+      "importDate": "2025-10-15",
+      "questionNumber": 3,
+      "originalAnswer": "A"
+    }
+  }
+]

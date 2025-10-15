@@ -1,21 +1,32 @@
 {
-  "lastUpdated": "2025-10-15T13:19:44.222Z",
-  "totalQuestions": 3,
-  "examType": "AWS-SAA-C03",
-  "topics": [
-    "storage",
-    "analytics",
-    "security"
-  ],
-  "topicCounts": {
-    "storage": 1,
-    "analytics": 1,
-    "security": 1
+  "provider": "AWS",
+  "providerName": "Amazon Web Services",
+  "lastUpdated": "2025-10-15T15:00:00.000Z",
+  "certifications": {
+    "saa-c03": {
+      "examCode": "AWS-SAA-C03",
+      "examName": "AWS Certified Solutions Architect - Associate",
+      "level": "Associate",
+      "status": "active",
+      "questionsPath": "saa-c03/questions.json",
+      "indexPath": "saa-c03/index.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json"
+    }
   },
-  "source": "Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution",
-  "files": [
-    "storage-questions.json",
-    "analytics-questions.json",
-    "security-questions.json"
-  ]
+  "futureExams": {
+    "dva-c01": {
+      "examCode": "AWS-DVA-C01", 
+      "examName": "AWS Certified Developer - Associate",
+      "level": "Associate",
+      "status": "planned",
+      "note": "Will be added when source available"
+    },
+    "sap-c01": {
+      "examCode": "AWS-SAP-C01",
+      "examName": "AWS Certified Solutions Architect - Professional", 
+      "level": "Professional",
+      "status": "planned",
+      "note": "Will be added when source available"
+    }
+  }
 }
