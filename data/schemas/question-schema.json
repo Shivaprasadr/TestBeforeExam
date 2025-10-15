@@ -1,0 +1,152 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/Shivaprasadr/TestBeforeExam/main/data/schemas/question-schema.json",
+  "title": "TestBeforeExam Question Schema",
+  "description": "Schema for exam questions in the TestBeforeExam platform",
+  "type": "object",
+  "required": [
+    "id",
+    "subject",
+    "topic", 
+    "difficulty",
+    "examTypes",
+    "question",
+    "questionType",
+    "correctAnswer",
+    "explanation",
+    "metadata"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Unique identifier for the question"
+    },
+    "subject": {
+      "type": "string",
+      "enum": ["mathematics", "science", "english", "history", "geography", "programming"],
+      "description": "Main subject category"
+    },
+    "topic": {
+      "type": "string",
+      "description": "Specific topic within the subject"
+    },
+    "subtopic": {
+      "type": "string",
+      "description": "Optional subtopic for more granular categorization"
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["beginner", "intermediate", "advanced"],
+      "description": "Difficulty level of the question"
+    },
+    "examTypes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["SAT", "GRE", "GMAT", "ACT", "AP", "IIT-JEE", "NEET", "General"]
+      },
+      "minItems": 1,
+      "description": "Exam types this question is suitable for"
+    },
+    "question": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 1000,
+      "description": "The question text"
+    },
+    "questionType": {
+      "type": "string",
+      "enum": ["multiple-choice", "true-false", "fill-blank", "essay", "numeric"],
+      "description": "Type of question"
+    },
+    "options": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 2,
+      "maxItems": 6,
+      "description": "Answer options (required for multiple-choice)"
+    },
+    "correctAnswer": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Index of correct answer (0-based) or numeric value"
+    },
+    "explanation": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 2000,
+      "description": "Detailed explanation of the correct answer"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Tags for categorization and search"
+    },
+    "timeEstimate": {
+      "type": "integer",
+      "minimum": 15,
+      "maximum": 1800,
+      "description": "Estimated time to solve in seconds"
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["createdAt", "contributor", "verified"],
+      "properties": {
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the question was created"
+        },
+        "updatedAt": {
+          "type": "string", 
+          "format": "date-time",
+          "description": "When the question was last updated"
+        },
+        "contributor": {
+          "type": "string",
+          "description": "GitHub username of contributor"
+        },
+        "reviewedBy": {
+          "type": "string",
+          "description": "GitHub username of reviewer"
+        },
+        "verified": {
+          "type": "boolean",
+          "description": "Whether the question has been verified"
+        },
+        "source": {
+          "type": "string",
+          "enum": ["original", "adapted", "translated"],
+          "description": "Source type of the question"
+        },
+        "references": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "References or sources used"
+        }
+      }
+    }
+  },
+  "if": {
+    "properties": {
+      "questionType": { "const": "multiple-choice" }
+    }
+  },
+  "then": {
+    "required": ["options"],
+    "properties": {
+      "correctAnswer": {
+        "type": "integer",
+        "minimum": 0,
+        "maximum": 5
+      }
+    }
+  }
+}

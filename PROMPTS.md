@@ -1,6 +1,22 @@
 # 🤖 AI Development Prompts for TestBeforeExam
 
-## 📋 Prompt Categories
+## � CRITICAL AI INSTRUCTIONS
+
+### **NEVER CREATE NEW FILES - UPDATE EXISTING ONES**
+When working on TestBeforeExam:
+- **NO new .md files**: Never create context files, config files, or additional documentation
+- **Update existing files**: Only modify README.md, INSTRUCTIONS.md, PROMPTS.md, CONTRIBUTING.md
+- **One source of truth**: Each piece of information has ONE location
+- **Enhance, don't duplicate**: Always improve existing content instead of creating new files
+
+### **File Update Rules**
+- Technical specs → Update README.md architecture section
+- Development guidelines → Update INSTRUCTIONS.md
+- New prompts/patterns → Update this PROMPTS.md file
+- Contribution workflows → Update CONTRIBUTING.md
+- **Never suggest creating**: .ai-context.md, .cursorrules, docs/ folder, or any additional files
+
+## �📋 Prompt Categories
 
 ### 🏗️ Architecture & Planning Prompts
 ### 💻 Development Prompts  

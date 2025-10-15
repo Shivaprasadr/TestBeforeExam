@@ -47,41 +47,83 @@ TestBeforeExam/
 3. **Phase 3**: Community features and analytics
 4. **Phase 4**: AI-powered question generation
 
-## 🔄 Self-Evolution Guidelines
+## � CRITICAL: File Management Rules
 
-### When to Update This File
-- [ ] New major features are added
-- [ ] Architecture changes occur
-- [ ] New tools or technologies are integrated
-- [ ] Community feedback suggests improvements
-- [ ] Performance optimizations are implemented
+### **NEVER CREATE NEW DOCUMENTATION FILES**
+- **Only update existing files**: README.md, INSTRUCTIONS.md, PROMPTS.md
+- **No additional .md files**: No context files, config files, or AI-specific files
+- **One source of truth**: Each topic has ONE location in these three files
+- **Update, don't duplicate**: Always enhance existing content instead of creating new files
+
+### **File Responsibilities**
+- **README.md**: Project overview, getting started, architecture, technical specs
+- **INSTRUCTIONS.md**: Development guidelines, project evolution, detailed workflows
+- **PROMPTS.md**: AI development patterns, code generation prompts
+- **CONTRIBUTING.md**: Contribution guidelines only (keep minimal)
+
+### **Folder Structure Rules**
+- **Root level**: Only essential files (README, INSTRUCTIONS, PROMPTS, CONTRIBUTING, LICENSE)
+- **`.github/`**: GitHub templates only
+- **`data/`**: Question content and schemas
+- **`apps/`**: Application source code
+- **`tools/`**: Development utilities
+- **NO `docs/` folder**: All documentation in root-level files
+
+## �🔄 Self-Evolution Guidelines
+
+### When to Update These Files
+- [ ] New major features are added → Update INSTRUCTIONS.md
+- [ ] Architecture changes occur → Update README.md architecture section
+- [ ] New development patterns → Update PROMPTS.md
+- [ ] Community feedback → Update relevant sections in existing files
+- [ ] Performance optimizations → Update README.md performance section
 
 ### Evolution Triggers
-1. **Repository Growth**: Update structure when new directories are added
-2. **Feature Additions**: Document new capabilities and workflows
-3. **Community Feedback**: Incorporate suggestions and improvements
-4. **Technology Updates**: Reflect changes in tech stack
-5. **Performance Insights**: Add optimizations based on usage data
+1. **Repository Growth**: Update INSTRUCTIONS.md structure section
+2. **Feature Additions**: Update README.md features and INSTRUCTIONS.md workflows
+3. **Community Feedback**: Update CONTRIBUTING.md and relevant instruction sections
+4. **Technology Updates**: Update README.md tech stack and INSTRUCTIONS.md guidelines
+5. **Performance Insights**: Update README.md performance targets
 
 ## 🛠️ Development Workflow
 
 ### 1. Content Management
-- Questions stored in JSON/YAML format
+- Questions stored in JSON format following strict schema
 - Categorized by subject, difficulty, and exam type
 - Version controlled for change tracking
 - Automated validation on commits
+- Content organized in `data/subjects/{subject}/{topic}.json`
 
 ### 2. Application Development
-- Progressive Web App (PWA) for web
+- Progressive Web App (PWA) for web using React + TypeScript
 - React Native for mobile (using Expo)
-- Shared TypeScript codebase
-- Component-driven development
+- Shared TypeScript codebase in `apps/shared/`
+- Component-driven development with Tailwind CSS
+- Vite for fast builds and hot reloading
 
 ### 3. Deployment Strategy
-- **Web App**: Netlify/Vercel (free tier)
-- **Mobile App**: Expo for distribution
-- **API**: GitHub raw content + GitHub Pages
-- **CDN**: jsDelivr for fast content delivery
+- **Web App**: Netlify/Vercel (free tier) with automatic deployments
+- **Mobile App**: Expo Application Services for app store distribution
+- **API**: GitHub raw content API + jsDelivr CDN
+- **Content Delivery**: jsDelivr for global fast content access
+
+### 4. Development Environment Setup
+```bash
+# Prerequisites: Node.js 16+, Git
+git clone https://github.com/Shivaprasadr/TestBeforeExam.git
+cd TestBeforeExam
+npm install
+npm run dev    # Start development server
+npm run test   # Run test suite
+npm run build  # Production build
+```
+
+### 5. Code Quality Standards
+- **TypeScript**: Strict mode enabled, proper typing required
+- **Testing**: Jest + Testing Library, >80% coverage target
+- **Linting**: ESLint + Prettier for consistent code style
+- **Accessibility**: WCAG 2.1 AA compliance mandatory
+- **Performance**: Bundle size monitoring, lazy loading patterns
 
 ### 4. Free Infrastructure Stack
 - **Repository**: GitHub (free)

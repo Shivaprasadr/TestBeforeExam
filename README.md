@@ -39,6 +39,64 @@ TestBeforeExam is a revolutionary approach to exam preparation that leverages Gi
 
 ---
 
+## 🏗️ Architecture & Technical Details
+
+### **Free Infrastructure Stack**
+```
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   GitHub Repo   │───▶│   jsDelivr CDN  │───▶│  Netlify/Vercel │
+│  (Data Source)  │    │  (Content API)  │    │   (App Hosting) │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+         │                       │                       │
+         ▼                       ▼                       ▼
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│ GitHub Actions  │    │  Question Data  │    │   Web/Mobile    │
+│    (CI/CD)      │    │   JSON Files    │    │      Apps       │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+```
+
+### **Technology Stack**
+- **Frontend**: React 18+ with TypeScript
+- **Mobile**: React Native with Expo
+- **Styling**: Tailwind CSS
+- **Build**: Vite for fast development
+- **Testing**: Jest + Testing Library
+- **Hosting**: Netlify/Vercel (free tier)
+- **CDN**: jsDelivr for content delivery
+- **CI/CD**: GitHub Actions
+
+### **Performance Targets**
+- Load Time: < 3 seconds
+- Bundle Size: < 500KB gzipped
+- First Contentful Paint: < 1.5 seconds
+- Lighthouse Score: > 90
+- Mobile Performance: > 85
+
+### **Question Data Schema**
+```typescript
+interface Question {
+  id: string;
+  subject: string;
+  topic: string;
+  difficulty: 'beginner' | 'intermediate' | 'advanced';
+  examTypes: string[];
+  question: string;
+  questionType: 'multiple-choice' | 'true-false' | 'fill-blank';
+  options?: string[];
+  correctAnswer: number;
+  explanation: string;
+  tags: string[];
+  timeEstimate: number;
+  metadata: {
+    contributor: string;
+    verified: boolean;
+    createdAt: string;
+  };
+}
+```
+
+---
+
 ## 🚀 Quick Start
 
 ### 📱 **For Users**
