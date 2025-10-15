@@ -8,9 +8,11 @@
       "examName": "AWS Certified Solutions Architect - Associate",
       "level": "Associate",
       "status": "active",
+      "totalQuestions": 529,
       "questionsPath": "saa-c03/questions.json",
       "indexPath": "saa-c03/index.json",
-      "cdnUrl": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json"
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json",
+      "lastUpdated": "2025-10-15T13:55:03.915Z"
     }
   },
   "futureExams": {

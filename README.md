@@ -18,7 +18,7 @@ TestBeforeExam is a revolutionary approach to exam preparation that leverages Gi
 
 ## 🚀 AWS SAA-C03 Automation - LIVE NOW!
 
-**✅ Active Daily Sync**: Automatically updates AWS Certified Solutions Architect Associate questions every day at 6:00 AM UTC
+**✅ Active Daily Sync**: Automatically updates AWS Certified Solutions Architect Associate questions every day at 6:00 AM UTC from curated external sources
 
 ### 🌐 Instant Access via jsDelivr CDN
 ```bash

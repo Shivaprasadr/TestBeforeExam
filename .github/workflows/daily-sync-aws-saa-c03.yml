@@ -1,9 +1,15 @@
-name: Daily AWS SAA-C03 Questions Sync
+name: Daily Sync - AWS SAA-C03 Questions
 
 on:
   schedule:
     - cron: '0 6 * * *'  # Daily at 6:00 AM UTC
   workflow_dispatch:  # Allow manual triggering
+
+env:
+  # Source repository configuration (keep private)
+  SOURCE_REPO_URL: ${{ secrets.AWS_SAA_C03_SOURCE_URL }}
+  SOURCE_REPO_NAME: ${{ secrets.AWS_SAA_C03_SOURCE_NAME }}
+  SOURCE_FILE_PATH: ${{ secrets.AWS_SAA_C03_SOURCE_FILE }}
 
 jobs:
   sync-aws-questions:
@@ -32,7 +38,7 @@ jobs:
       id: check_updates
       run: |
         # Get the latest commit hash from the source repository
-        SOURCE_COMMIT=$(curl -s "https://api.github.com/repos/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution/commits/main" | jq -r '.sha')
+        SOURCE_COMMIT=$(curl -s "https://api.github.com/repos/${{ env.SOURCE_REPO_NAME }}/commits/main" | jq -r '.sha')
         echo "source_commit=$SOURCE_COMMIT" >> $GITHUB_OUTPUT
         
         # Check if we have a record of the last processed commit
@@ -54,7 +60,7 @@ jobs:
     - name: Clone source repository
       if: steps.check_updates.outputs.needs_update == 'true'
       run: |
-        git clone https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution.git temp-aws-repo
+        git clone ${{ env.SOURCE_REPO_URL }} temp-aws-repo
         
     - name: Process AWS questions (parse actual source)
       if: steps.check_updates.outputs.needs_update == 'true'
@@ -71,7 +77,7 @@ jobs:
         fs.mkdirSync(saac03Dir, { recursive: true });
         
         // Read the source solution file
-        const sourceFile = 'temp-aws-repo/AWS SAA-03 Solution.txt';
+        const sourceFile = 'temp-aws-repo/' + process.env.SOURCE_FILE_PATH;
         if (!fs.existsSync(sourceFile)) {
           console.error('❌ Source file not found:', sourceFile);
           process.exit(1);
@@ -152,8 +158,8 @@ jobs:
           lastUpdated: new Date().toISOString(),
           totalQuestions: questions.length,
           source: {
-            repository: 'Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution',
-            url: 'https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution.git',
+            repository: 'External AWS SAA-C03 Question Bank',
+            sourceType: 'curated-exam-questions',
             lastSync: new Date().toISOString(),
             totalLines: content.split('\n').length
           },
@@ -193,10 +199,9 @@ jobs:
         # Create descriptive commit message
         COMMIT_MSG="🔄 Daily AWS SAA-C03 sync - $(date '+%Y-%m-%d')
 
-        - Updated questions from source repository
-        - Source commit: ${{ steps.check_updates.outputs.source_commit }}
+        - Updated questions from external source
         - Processing timestamp: $(date -u +%Y-%m-%dT%H:%M:%SZ)
-        - Simplified single-file structure  
+        - Questions processed and validated
         - CDN URLs updated for global delivery"
         
         git commit -m "$COMMIT_MSG" || echo "No changes to commit"
