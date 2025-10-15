@@ -1,36 +1,25 @@
 {
   "baseUrl": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main",
-  "lastUpdated": "2025-10-15T00:00:00.000Z",
-  "version": "1.0.0",
+  "lastUpdated": "2025-10-15T14:08:06.964Z",
+  "version": "2.0.0",
   "endpoints": {
     "mainIndex": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/index.json",
-    "awsIndex": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/index.json",
-    "questionFiles": [
+    "examFiles": [
       {
-        "name": "storage-questions.json",
-        "topic": "storage",
-        "url": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/storage-questions.json",
-        "count": 1
-      },
-      {
-        "name": "analytics-questions.json",
-        "topic": "analytics", 
-        "url": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/analytics-questions.json",
-        "count": 1
-      },
-      {
-        "name": "security-questions.json",
-        "topic": "security",
-        "url": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/security-questions.json",
-        "count": 1
+        "examCode": "AWS-SAA-C03",
+        "name": "AWS Certified Solutions Architect Associate",
+        "questionsUrl": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json",
+        "indexUrl": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/index.json",
+        "structure": "consolidated-single-file",
+        "count": 529
       }
     ]
   },
   "usage": {
     "examples": {
-      "fetchAllQuestions": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/index.json",
-      "fetchAWSQuestions": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/index.json",
-      "fetchStorageQuestions": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/storage-questions.json"
+      "fetchMainIndex": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/index.json",
+      "fetchAWSSAAC03Questions": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json",
+      "fetchAWSSAAC03Index": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/index.json"
     },
     "api": {
       "cors": "enabled",
@@ -49,6 +38,6 @@
     "syncFrequency": "daily",
     "syncTime": "06:00 UTC",
     "sourceCheck": "automated",
-    "lastSync": "2025-10-15T00:00:00.000Z"
+    "lastSync": "2025-10-15T14:08:06.964Z"
   }
 }

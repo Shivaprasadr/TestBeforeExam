@@ -1,19 +1,16 @@
 {
-  "lastUpdated": "2025-10-15T00:00:00.000Z",
-  "version": "1.0.0",
-  "totalQuestions": 3,
+  "lastUpdated": "2025-10-15T14:08:06.964Z",
+  "version": "2.0.0",
+  "totalQuestions": 529,
   "subjects": {
     "cloud-computing": {
       "aws": {
-        "examTypes": ["AWS-SAA-C03", "AWS-Solutions-Architect"],
-        "totalQuestions": 3,
-        "topics": ["storage", "analytics", "security"],
-        "topicCounts": {
-          "storage": 1,
-          "analytics": 1,
-          "security": 1
-        },
-        "lastSync": "2025-10-15T00:00:00.000Z",
+        "examTypes": ["AWS-SAA-C03"],
+        "totalQuestions": 529,
+        "structure": "consolidated-single-file",
+        "questionFile": "data/subjects/cloud-computing/aws/saa-c03/questions.json",
+        "cdnUrl": "https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json",
+        "lastSync": "2025-10-15T14:08:06.964Z",
         "source": "Shivaprasadr"
       }
     }
@@ -23,15 +20,18 @@
       "name": "AWS Certified Solutions Architect Associate",
       "provider": "Amazon Web Services",
       "level": "Associate",
-      "questions": 3,
-      "subjects": ["cloud-computing"]
+      "questions": 529,
+      "subjects": ["cloud-computing"],
+      "structure": "consolidated",
+      "processingDate": "2025-10-15T14:08:06.965Z"
     }
   },
   "statistics": {
     "subjectCount": 1,
-    "topicCount": 3,
-    "averageQuestionsPerTopic": 1,
-    "lastImportDate": "2025-10-15"
+    "examTypesActive": 1,
+    "totalQuestionsProcessed": 529,
+    "lastProcessingDate": "2025-10-15T14:08:06.965Z",
+    "architecture": "single-file-consolidated"
   },
   "repository": {
     "name": "TestBeforeExam",

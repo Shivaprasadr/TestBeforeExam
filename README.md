@@ -178,11 +178,9 @@ npm run dev
 ### **🔗 API Endpoints (via jsDelivr CDN)**
 ```
 📋 Main Index:     https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/index.json
-🏗️ AWS Index:      https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/index.json
+🏗️ AWS SAA-C03:    https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/index.json
 📊 CDN URLs:       https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/cdn-urls.json
-💾 Storage Qs:     https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/storage-questions.json
-📈 Analytics Qs:   https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/analytics-questions.json
-🔒 Security Qs:    https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/security-questions.json
+🎯 All Questions:  https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json
 ```
 
 ---

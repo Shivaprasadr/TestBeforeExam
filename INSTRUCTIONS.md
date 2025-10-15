@@ -15,9 +15,8 @@ Create a free, efficient, and scalable exam preparation platform that serves que
 
 ### Live Endpoints
 - Master Index: `index.json`
-- Storage Questions: `storage/storage-questions.json`
-- Analytics Questions: `analytics/analytics-questions.json`  
-- Security Questions: `security/security-questions.json`
+- AWS SAA-C03 Questions: `saa-c03/questions.json` (529 questions consolidated)
+- AWS SAA-C03 Index: `saa-c03/index.json`
 
 ## 🏗️ Architecture Philosophy
 - **Free & Efficient**: Leverage free services (GitHub, Netlify, Vercel, jsDelivr CDN)
