@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2025-10-15T13:19:44.222Z",
+  "totalQuestions": 3,
+  "examType": "AWS-SAA-C03",
+  "topics": [
+    "storage",
+    "analytics",
+    "security"
+  ],
+  "topicCounts": {
+    "storage": 1,
+    "analytics": 1,
+    "security": 1
+  },
+  "source": "Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution",
+  "files": [
+    "storage-questions.json",
+    "analytics-questions.json",
+    "security-questions.json"
+  ]
+}

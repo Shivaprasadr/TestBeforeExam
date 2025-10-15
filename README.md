@@ -143,11 +143,22 @@ npm run dev
 ```
 
 ### **Data Flow**
-1. **Content Creation**: Contributors add questions via GitHub
-2. **Validation**: Automated checks ensure quality and format
-3. **Distribution**: jsDelivr CDN serves content globally
-4. **Consumption**: Apps fetch and cache questions for users
-5. **Analytics**: Usage patterns help improve content and UX
+1. **Source Sync**: Daily automated sync from external repositories
+2. **Content Processing**: Questions parsed and converted to standard format
+3. **Validation**: Automated checks ensure quality and format
+4. **Distribution**: jsDelivr CDN serves content globally with <50ms latency
+5. **Consumption**: Apps fetch and cache questions for users
+6. **Analytics**: Usage patterns help improve content and UX
+
+### **🔗 API Endpoints (via jsDelivr CDN)**
+```
+📋 Main Index:     https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/index.json
+🏗️ AWS Index:      https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/index.json
+📊 CDN URLs:       https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/cdn-urls.json
+💾 Storage Qs:     https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/storage-questions.json
+📈 Analytics Qs:   https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/analytics-questions.json
+🔒 Security Qs:    https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/security-questions.json
+```
 
 ---
 
@@ -159,6 +170,9 @@ npm run dev
 - [x] Repository structure and documentation
 - [x] Development guidelines and standards
 - [x] Basic question schema design
+- [x] AWS SAA-C03 question automation setup
+- [x] Daily sync from external repositories
+- [x] jsDelivr CDN integration for global access
 - [ ] Core web application development
 - [ ] Mobile app MVP
 
@@ -183,10 +197,13 @@ npm run dev
 - [ ] Enterprise features for institutions
 
 ### 📈 **Current Metrics**
-- **Questions**: 0 *(Growing!)*
-- **Subjects**: 0 *(Planning multiple)*
+- **Questions**: 3 *(Growing daily!)*
+- **Subjects**: 1 (Cloud Computing - AWS)
+- **Exam Types**: 1 (AWS SAA-C03)
+- **Topics**: 3 (Storage, Analytics, Security)
 - **Contributors**: 1 *(You can be next!)*
 - **Users**: 0 *(Launch coming soon)*
+- **Daily Sync**: ✅ Automated from external sources
 
 ---
 

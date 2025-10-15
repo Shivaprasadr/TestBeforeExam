@@ -1,0 +1,23 @@
+{
+  "name": "testbeforeexam-tools",
+  "version": "1.0.0",
+  "description": "Data import and processing tools for TestBeforeExam",
+  "main": "index.js",
+  "scripts": {
+    "import-aws": "node tools/data-importers/enhanced-aws-parser.js",
+    "import-aws-original": "node tools/data-importers/aws-saa-c03-importer.js",
+    "validate-schema": "node tools/validators/schema-validator.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["exam", "questions", "aws", "education"],
+  "author": "TestBeforeExam Contributors",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

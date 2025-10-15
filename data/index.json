@@ -1,0 +1,42 @@
+{
+  "lastUpdated": "2025-10-15T00:00:00.000Z",
+  "version": "1.0.0",
+  "totalQuestions": 3,
+  "subjects": {
+    "cloud-computing": {
+      "aws": {
+        "examTypes": ["AWS-SAA-C03", "AWS-Solutions-Architect"],
+        "totalQuestions": 3,
+        "topics": ["storage", "analytics", "security"],
+        "topicCounts": {
+          "storage": 1,
+          "analytics": 1,
+          "security": 1
+        },
+        "lastSync": "2025-10-15T00:00:00.000Z",
+        "source": "Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution"
+      }
+    }
+  },
+  "examTypes": {
+    "AWS-SAA-C03": {
+      "name": "AWS Certified Solutions Architect Associate",
+      "provider": "Amazon Web Services",
+      "level": "Associate",
+      "questions": 3,
+      "subjects": ["cloud-computing"]
+    }
+  },
+  "statistics": {
+    "subjectCount": 1,
+    "topicCount": 3,
+    "averageQuestionsPerTopic": 1,
+    "lastImportDate": "2025-10-15"
+  },
+  "repository": {
+    "name": "TestBeforeExam",
+    "owner": "Shivaprasadr",
+    "url": "https://github.com/Shivaprasadr/TestBeforeExam",
+    "license": "MIT"
+  }
+}

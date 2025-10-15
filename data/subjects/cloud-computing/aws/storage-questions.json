@@ -1,0 +1,41 @@
+[
+  {
+    "id": "aws-saa-c03-001",
+    "subject": "cloud-computing",
+    "topic": "storage",
+    "subtopic": "s3-transfer-acceleration",
+    "difficulty": "intermediate",
+    "examTypes": [
+      "AWS-SAA-C03",
+      "AWS-Solutions-Architect"
+    ],
+    "question": "A company collects data for temperature, humidity, and atmospheric pressure in cities across multiple continents. The average volume of data that the company collects from each site daily is 500 GB. Each site has a high-speed Internet connection. The company wants to aggregate the data from all these global sites as quickly as possible in a single Amazon S3 bucket. The solution must minimize operational complexity. Which solution meets these requirements?",
+    "questionType": "multiple-choice",
+    "options": [
+      "Turn on S3 Transfer Acceleration on the destination S3 bucket. Use multipart uploads to directly upload site data to the destination S3 bucket.",
+      "Use AWS DataSync to transfer data from each site to the destination S3 bucket.",
+      "Create an AWS Direct Connect connection between each site and AWS. Upload data to the destination S3 bucket.",
+      "Set up AWS Storage Gateway at each site to cache data locally before uploading to the destination S3 bucket."
+    ],
+    "correctAnswer": 0,
+    "explanation": "S3 Transfer Acceleration is ideal for long-distance transfers using Edge Locations. It can speed up content transfers to and from S3 by 50-500%. This solution works well for mobile & web application uploads and downloads, distributed office transfers, and data exchange with trusted partners.",
+    "tags": [
+      "s3",
+      "transfer-acceleration",
+      "global-distribution",
+      "performance",
+      "multipart-upload"
+    ],
+    "timeEstimate": 120,
+    "metadata": {
+      "createdAt": "2025-10-15T13:19:44.206Z",
+      "contributor": "automated-import",
+      "verified": true,
+      "source": "adapted",
+      "sourceRepo": "Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution",
+      "importDate": "2025-10-15",
+      "questionNumber": 1,
+      "originalAnswer": "A"
+    }
+  }
+]
