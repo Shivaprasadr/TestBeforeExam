@@ -53,26 +53,96 @@ jobs:
       run: |
         git clone https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution.git temp-aws-repo
         
-    - name: Process AWS questions (single file approach)
+    - name: Process AWS questions (parse actual source)
       if: steps.check_updates.outputs.needs_update == 'true'
       run: |
-        # Create a simple inline processor
+        # Enhanced processor to parse the actual AWS solution file
         node -e "
         const fs = require('fs');
         const path = require('path');
+        
+        console.log('🔍 Starting AWS SAA-C03 question processing...');
         
         // Ensure directories exist
         const saac03Dir = 'data/subjects/cloud-computing/aws/saa-c03';
         fs.mkdirSync(saac03Dir, { recursive: true });
         
-        // Read existing questions or create empty array
-        let questions = [];
-        const questionsFile = path.join(saac03Dir, 'questions.json');
-        if (fs.existsSync(questionsFile)) {
-          questions = JSON.parse(fs.readFileSync(questionsFile, 'utf8'));
+        // Read the source solution file
+        const sourceFile = 'temp-aws-repo/AWS SAA-03 Solution.txt';
+        if (!fs.existsSync(sourceFile)) {
+          console.error('❌ Source file not found:', sourceFile);
+          process.exit(1);
         }
         
-        // Update metadata
+        const content = fs.readFileSync(sourceFile, 'utf8');
+        console.log('📄 Source file loaded:', content.length, 'characters');
+        
+        // Parse questions using pattern matching
+        const questions = [];
+        const lines = content.split('\n');
+        let currentQuestion = null;
+        let questionCounter = 0;
+        
+        for (let i = 0; i < lines.length; i++) {
+          const line = lines[i].trim();
+          
+          // Detect question start (number followed by ])
+          const questionMatch = line.match(/^(\d+)\]\s*(.+)/);
+          if (questionMatch) {
+            // Save previous question if exists
+            if (currentQuestion && currentQuestion.question) {
+              currentQuestion.id = 'aws-saa-c03-' + String(questionCounter).padStart(3, '0');
+              questions.push(currentQuestion);
+            }
+            
+            questionCounter++;
+            currentQuestion = {
+              id: '',
+              subject: 'cloud-computing',
+              examType: 'AWS-SAA-C03',
+              questionNumber: parseInt(questionMatch[1]),
+              question: questionMatch[2],
+              options: [],
+              correctAnswer: null,
+              explanation: '',
+              tags: [],
+              difficulty: 'intermediate',
+              lastUpdated: new Date().toISOString()
+            };
+            continue;
+          }
+          
+          // Look for answer line
+          if (line.startsWith('ans-') && currentQuestion) {
+            const answerText = line.replace(/^ans-\s*/, '');
+            currentQuestion.correctAnswer = answerText;
+            currentQuestion.explanation = answerText;
+            continue;
+          }
+          
+          // Collect question content
+          if (currentQuestion && line && !line.startsWith('---')) {
+            if (currentQuestion.question.length < 500) {
+              currentQuestion.question += ' ' + line;
+            } else if (currentQuestion.explanation.length < 1000) {
+              currentQuestion.explanation += ' ' + line;
+            }
+          }
+        }
+        
+        // Add final question
+        if (currentQuestion && currentQuestion.question) {
+          currentQuestion.id = 'aws-saa-c03-' + String(questionCounter).padStart(3, '0');
+          questions.push(currentQuestion);
+        }
+        
+        console.log('✅ Parsed', questions.length, 'questions');
+        
+        // Save questions
+        const questionsFile = path.join(saac03Dir, 'questions.json');
+        fs.writeFileSync(questionsFile, JSON.stringify(questions, null, 2));
+        
+        // Create index
         const index = {
           examCode: 'AWS-SAA-C03',
           examName: 'AWS Certified Solutions Architect - Associate',
@@ -81,16 +151,23 @@ jobs:
           source: {
             repository: 'Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution',
             url: 'https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution.git',
-            lastSync: new Date().toISOString()
+            lastSync: new Date().toISOString(),
+            totalLines: content.split('\n').length
           },
           cdn: {
             questionsUrl: 'https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/questions.json',
             indexUrl: 'https://cdn.jsdelivr.net/gh/Shivaprasadr/TestBeforeExam@main/data/subjects/cloud-computing/aws/saa-c03/index.json'
+          },
+          statistics: {
+            questionsProcessed: questions.length,
+            sourceFileSize: content.length,
+            processingDate: new Date().toISOString()
           }
         };
         
         fs.writeFileSync(path.join(saac03Dir, 'index.json'), JSON.stringify(index, null, 2));
-        console.log('✅ Updated AWS SAA-C03 index');
+        console.log('✅ Created index with', questions.length, 'questions');
+        console.log('📊 Processing complete!');
         "
         
     - name: Update sync record
