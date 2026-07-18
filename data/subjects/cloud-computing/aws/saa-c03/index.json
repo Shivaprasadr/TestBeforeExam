@@ -1,12 +1,12 @@
 {
   "examCode": "AWS-SAA-C03",
   "examName": "AWS Certified Solutions Architect - Associate",
-  "lastUpdated": "2026-07-17T08:08:10.872Z",
+  "lastUpdated": "2026-07-18T07:47:49.875Z",
   "totalQuestions": 496,
   "source": {
     "repository": "External AWS SAA-C03 Question Bank",
     "sourceType": "curated-exam-questions",
-    "lastSync": "2026-07-17T08:08:10.872Z",
+    "lastSync": "2026-07-18T07:47:49.875Z",
     "totalLines": 6157
   },
   "cdn": {
@@ -18,6 +18,6 @@
     "questionsWithOptions": 463,
     "questionsWithAnswers": 1,
     "sourceFileSize": 596105,
-    "processingDate": "2026-07-17T08:08:10.872Z"
+    "processingDate": "2026-07-18T07:47:49.876Z"
   }
 }
