@@ -25,7 +25,7 @@
       "athena"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.010Z"
+    "lastUpdated": "2026-08-06T08:33:46.707Z"
   },
   {
     "id": "aws-saa-c03-007",
@@ -44,7 +44,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.010Z"
+    "lastUpdated": "2026-08-06T08:33:46.707Z"
   },
   {
     "id": "aws-saa-c03-008",
@@ -63,7 +63,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.010Z"
+    "lastUpdated": "2026-08-06T08:33:46.707Z"
   },
   {
     "id": "aws-saa-c03-009",
@@ -82,7 +82,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.707Z"
   },
   {
     "id": "aws-saa-c03-010",
@@ -101,7 +101,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-011",
@@ -123,7 +123,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-012",
@@ -145,7 +145,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-013",
@@ -166,7 +166,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-014",
@@ -188,7 +188,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-015",
@@ -209,7 +209,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-016",
@@ -231,7 +231,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-017",
@@ -253,7 +253,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-018",
@@ -279,7 +279,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-019",
@@ -295,7 +295,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-020",
@@ -316,7 +316,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-022",
@@ -337,7 +337,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-023",
@@ -358,7 +358,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-024",
@@ -379,7 +379,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-025",
@@ -401,7 +401,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-026",
@@ -422,7 +422,7 @@
       "s3"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-027",
@@ -441,7 +441,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-028",
@@ -451,8 +451,8 @@
     "question": "A company is migrating applications to AWS. The applications are deployed in different accounts. The company manages the accounts centrally by using AWS Organizations. The company's security team needs a single sign-on (SSO) solution across all the company's accounts. The company must continue managing the users and groups in its on-premises self-managed Microsoft Active Directory. Which solution will meet these requirements?",
     "options": [
       {
-        "letter": "A",
-        "text": "Enable AWS Single Sign-On (AWS SSO) from the AWS SSO console. Create a one-way forest trust or a one-way domain trust to connect the company's self-managed Microsoft Active Directory with AWS SSO by using AWS Directory Service for Microsoft Active Directory."
+        "letter": "B",
+        "text": "Enable AWS Single Sign-On (AWS SSO) from the AWS SSO console. Create a two-way forest trust to connect the company's self-managed Microsoft Active Directory with AWS SSO by using AWS Directory Service for Microsoft Active Directory."
       }
     ],
     "correctAnswer": null,
@@ -460,7 +460,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-029",
@@ -482,7 +482,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-030",
@@ -503,7 +503,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-031",
@@ -525,7 +525,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-032",
@@ -544,7 +544,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-033",
@@ -563,7 +563,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-034",
@@ -582,7 +582,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-035",
@@ -605,7 +605,28 @@
       "elb"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
+  },
+  {
+    "id": "aws-saa-c03-036",
+    "subject": "cloud-computing",
+    "examType": "AWS-SAA-C03",
+    "questionNumber": 36,
+    "question": "A company is building an application in the AWS Cloud. The application will store data in Amazon S3 buckets in two AWS Regions. The company must use an AWS Key Management Service (AWS KMS) customer managed key to encrypt all data that is stored in the S3 buckets. The data in both S3 buckets must be encrypted and decrypted with the same KMS key. The data and the key must be stored in each of the two Regions. Which solution will meet these requirements with the LEAST operational overhead?",
+    "options": [
+      {
+        "letter": "B",
+        "text": "Create a customer managed multi-Region KMS key. Create an S3 bucket in each Region. Configure replication between the S3 buckets. Configure the application to use the KMS key with client-side encryption."
+      }
+    ],
+    "correctAnswer": null,
+    "correctAnswerLetter": null,
+    "explanation": "No explanation provided",
+    "tags": [
+      "s3"
+    ],
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-037",
@@ -626,7 +647,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-038",
@@ -647,7 +668,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-039",
@@ -668,7 +689,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-040",
@@ -687,7 +708,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-041",
@@ -709,7 +730,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-042",
@@ -732,7 +753,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-043",
@@ -753,7 +774,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-044",
@@ -786,7 +807,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-045",
@@ -812,7 +833,7 @@
       "sns"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-046",
@@ -831,7 +852,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-047",
@@ -852,7 +873,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-048",
@@ -873,7 +894,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-049",
@@ -892,7 +913,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.011Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-050",
@@ -1034,12 +1055,16 @@
         "text": "Create a DynamoDB table in on-demand capacity mode."
       },
       {
+        "letter": "B",
+        "text": "Modify the launchPermission property of the AMI. Share the AMI with the MSP Partner's AWS account only. Modify the key policy to allow the MSP Partner's AWS account to use the key."
+      },
+      {
         "letter": "C",
         "text": "Create an Amazon SQS queue to hold the jobs that need to be processed. Create an Amazon Machine Image (AMI) that consists of the processor application. Create a launch template that uses the AMI. Create an Auto Scaling group using the launch template. Set the scaling policy for the Auto Scaling group to add and remove nodes based on the number of items in the SQS queue."
       },
       {
-        "letter": "D",
-        "text": "Create an Amazon EventBridge (Amazon CloudWatch Events) rule to detect any certificates that will expire within 30 days. Configure the rule to invoke an AWS Lambda function. Configure the Lambda function to send a custom alert by way of Amazon Simple Notification Service (Amazon SNS)."
+        "letter": "B",
+        "text": "Create an AWS Config rule to use the managed rule acm-certificate-expiration-check to check certificates a specific number of days before expiration. Set up an Amazon EventBridge (Amazon CloudWatch Events) rule for the AWS Config noncompliance event. Configure the rule to invoke an Amazon Simple Notification Service (Amazon SNS) topic to notify the security team."
       },
       {
         "letter": "C",
@@ -1118,10 +1143,6 @@
         "text": "Create three NAT gateways, one for each public subnet in each AZ. Create a private route table for each AZ that forwards non-VPC traffic to the NAT gateway in its AZ."
       },
       {
-        "letter": "A",
-        "text": "Launch the EC2 instance into the same Availability Zone as the EFS file system."
-      },
-      {
         "letter": "B",
         "text": "Install an AWS DataSync agent in the on-premises data center."
       },
@@ -1150,8 +1171,8 @@
         "text": "Use Amazon API Gateway with Amazon Kinesis Data Analytics."
       },
       {
-        "letter": "A",
-        "text": "Create an AWS Lambda function triggered when the database on Amazon RDS is updated to send the information to an Amazon Simple"
+        "letter": "D",
+        "text": "Subscribe to an RDS event notification and send an Amazon Simple Notification Service (Amazon SNS) topic fanned out to multiple Amazon"
       },
       {
         "letter": "D",
@@ -1194,20 +1215,20 @@
         "text": "Create the new website and an Amazon S3 bucket. Deploy the website on the S3 bucket with static website hosting enabled."
       },
       {
-        "letter": "C",
-        "text": "Create an Amazon Kinesis Data Firehose delivery stream. Configure the log group as the delivery streams sources. Configure Amazon OpenSearch Service (Amazon Elasticsearch Service) as the delivery stream's destination."
+        "letter": "A",
+        "text": "Configure a CloudWatch Logs subscription filter to stream the log group directly to Amazon OpenSearch Service (Amazon Elasticsearch Service)."
       },
       {
         "letter": "D",
         "text": "Amazon S3"
       },
       {
-        "letter": "A",
-        "text": "Set up AWS WAF in both Regions. Associate Regional web ACLs with an API stage."
+        "letter": "B",
+        "text": "Set up AWS Firewall Manager in both Regions. Centrally configure AWS WAF rules."
       },
       {
-        "letter": "A",
-        "text": "Create an Amazon Route 53 geolocation routing policy to route requests to one of the two NLBs. Create an Amazon CloudFront distribution. Use the Route 53 record as the distribution’s origin."
+        "letter": "B",
+        "text": "Create a standard accelerator in AWS Global Accelerator. Create endpoint groups in us-west-2 and eu-west-1. Add the two NLBs as"
       },
       {
         "letter": "A",
@@ -1234,12 +1255,8 @@
         "text": "Set up an S3 Lifecycle policy to transition objects to S3 Glacier Deep Archive after 2 years."
       },
       {
-        "letter": "A",
-        "text": "Amazon EBS for maximum performance, Amazon S3 for durable data storage, and Amazon S3 Glacier for archival storage"
-      },
-      {
-        "letter": "A",
-        "text": "Use Spot Instances in an Amazon EC2 Auto Scaling group to run the application containers."
+        "letter": "D",
+        "text": "Amazon EC2 instance store for maximum performance, Amazon S3 for durable data storage, and Amazon S3 Glacier for archival storage"
       },
       {
         "letter": "B",
@@ -1278,20 +1295,20 @@
         "text": "Create an ongoing replication task."
       },
       {
-        "letter": "D",
-        "text": "Convert the database schema by using the AWS Schema Conversion Tool (AWS SCT)."
+        "letter": "C",
+        "text": "Create an AWS Database Migration Service (AWS DMS) replication server."
       },
       {
-        "letter": "D",
-        "text": "Configure all existing AWS accounts and all newly created accounts to use the same root user email address. Configure AWS account alternate contacts in the AWS Organizations console or programmatically."
+        "letter": "B",
+        "text": "Configure all AWS account root user email addresses as distribution lists that go to a few administrators who can respond to alerts."
       },
       {
         "letter": "B",
         "text": "Migrate the queue to a redundant pair (active/standby) of RabbitMQ instances on Amazon MQ. Create a Multi-AZ Auto Scaling group for EC2 instances that host the application. Migrate the database to run on a Multi-AZ deployment of Amazon RDS for PostgreSQL."
       },
       {
-        "letter": "A",
-        "text": "Create a Lambda function to copy the files to the analysis S3 bucket. Create an S3 event notification for the analysis S3 bucket. Configure Lambda and SageMaker Pipelines as destinations of the event notification. Configure s3:ObjectCreated:Put as the event type."
+        "letter": "D",
+        "text": "Configure S3 replication between the S3 buckets. Configure the analysis S3 bucket to send event notifications to Amazon EventBridge."
       },
       {
         "letter": "A",
@@ -1318,8 +1335,8 @@
         "text": "Migrate the monthly reporting to an Aurora Replica."
       },
       {
-        "letter": "D",
-        "text": "Migrate the database to an Amazon Aurora MySQL DB instance. Create an AMI of the web application. Apply the AMI to a launch template. Create an Auto Scaling group with the launch template Configure the launch template to use a Spot Fleet. Attach an Application Load Balancer to the Auto Scaling group."
+        "letter": "A",
+        "text": "Migrate the database to an Amazon RDS for MySQL DB instance. Create an AMI of the web application. Apply the AMI to a launch template. Create an Auto Scaling group with the launch template. Attach an Application Load Balancer to the Auto Scaling group."
       },
       {
         "letter": "B",
@@ -1383,19 +1400,19 @@
       },
       {
         "letter": "A",
-        "text": "Take a manual snapshot of the DB cluster."
+        "text": "Take a manual snapshot of the DB cluster.--- No since automation asked"
       },
       {
         "letter": "B",
-        "text": "Create a lifecycle policy for the automated backups."
+        "text": "Create a lifecycle policy for the automated backups.--- Lifecycle policy there for S3"
       },
       {
         "letter": "C",
-        "text": "Configure automated backup retention for 5 years."
+        "text": "Configure automated backup retention for 5 years. -- Not possible"
       },
       {
         "letter": "D",
-        "text": "Configure an Amazon CloudWatch Logs export for the DB cluster."
+        "text": "Configure an Amazon CloudWatch Logs export for the DB cluster. -- Correct"
       },
       {
         "letter": "A",
@@ -1482,20 +1499,8 @@
         "text": "Design a REST API using Amazon API Gateway that accepts the item names. API Gateway passes item names to AWS Lambda for tax computations."
       },
       {
-        "letter": "A",
-        "text": "Configure a CloudFront signed URL."
-      },
-      {
-        "letter": "B",
-        "text": "Configure a CloudFront signed cookie."
-      },
-      {
         "letter": "C",
         "text": "Configure a CloudFront field-level encryption profile."
-      },
-      {
-        "letter": "D",
-        "text": "Configure CloudFront and set the Origin Protocol Policy setting to HTTPS Only for the Viewer Protocol Policy."
       },
       {
         "letter": "B",
@@ -1597,7 +1602,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-186",
@@ -1618,7 +1623,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-187",
@@ -1641,7 +1646,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-188",
@@ -1662,7 +1667,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-189",
@@ -1685,7 +1690,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-190",
@@ -1704,7 +1709,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-201",
@@ -1723,7 +1728,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-202",
@@ -1744,7 +1749,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-203",
@@ -1766,7 +1771,7 @@
       "sqs"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-204",
@@ -1788,7 +1793,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-205",
@@ -1809,7 +1814,7 @@
       "cloudfront"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-206",
@@ -1830,7 +1835,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-208",
@@ -1840,8 +1845,8 @@
     "question": "A company needs to move data from an Amazon EC2 instance to an Amazon S3 bucket. The company must ensure that no API calls and no data are routed through public internet routes. Only the EC2 instance can have access to upload data to the S3 bucket. Which solution will meet these requirements?",
     "options": [
       {
-        "letter": "A",
-        "text": "Create an interface VPC endpoint for Amazon S3 in the subnet where the EC2 instance is located. Attach a resource policy to the S3 bucket to only allow the EC2 instance’s IAM role for access."
+        "letter": "B",
+        "text": "Create a gateway VPC endpoint for Amazon S3 in the Availability Zone where the EC2 instance is located. Attach appropriate security"
       }
     ],
     "correctAnswer": null,
@@ -1852,7 +1857,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-209",
@@ -1873,7 +1878,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-211",
@@ -1898,7 +1903,7 @@
       "sns"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-212",
@@ -1919,7 +1924,7 @@
       "s3"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-213",
@@ -1938,7 +1943,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-214",
@@ -1959,7 +1964,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-215",
@@ -1978,7 +1983,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-216",
@@ -2000,7 +2005,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-217",
@@ -2022,7 +2027,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-218",
@@ -2043,7 +2048,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-219",
@@ -2059,7 +2064,7 @@
       "ec2"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-220",
@@ -2078,7 +2083,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-221",
@@ -2099,7 +2104,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-222",
@@ -2120,7 +2125,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-223",
@@ -2143,7 +2148,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-225",
@@ -2162,7 +2167,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-226",
@@ -2188,7 +2193,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-227",
@@ -2209,7 +2214,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-228",
@@ -2230,7 +2235,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-229",
@@ -2251,7 +2256,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-230",
@@ -2270,7 +2275,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-231",
@@ -2292,7 +2297,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-232",
@@ -2318,7 +2323,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-233",
@@ -2341,7 +2346,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-234",
@@ -2363,7 +2368,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-236",
@@ -2384,7 +2389,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-237",
@@ -2406,7 +2411,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-238",
@@ -2427,7 +2432,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.708Z"
   },
   {
     "id": "aws-saa-c03-239",
@@ -2437,8 +2442,8 @@
     "question": "A solutions architect needs to design a new microservice for a company’s application. Clients must be able to call an HTTPS endpoint to reach the microservice. The microservice also must use AWS Identity and Access Management (IAM) to authenticate calls. The solutions architect will write the logic for this microservice by using a single AWS Lambda function that is written in Go 1.x. Which solution will deploy the function in the MOST operationally efficient way?",
     "options": [
       {
-        "letter": "A",
-        "text": "Create an Amazon API Gateway REST API. Configure the method to use the Lambda function. Enable IAM authentication on the API."
+        "letter": "B",
+        "text": "Create a Lambda function URL for the function. Specify AWS_IAM as the authentication type."
       }
     ],
     "correctAnswer": null,
@@ -2449,7 +2454,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-240",
@@ -2468,7 +2473,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-241",
@@ -2487,7 +2492,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-242",
@@ -2508,7 +2513,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-243",
@@ -2529,7 +2534,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-244",
@@ -2550,7 +2555,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-245",
@@ -2572,7 +2577,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.012Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-246",
@@ -2593,7 +2598,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-247",
@@ -2609,7 +2614,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-248",
@@ -2630,7 +2635,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-249",
@@ -2649,7 +2654,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-250",
@@ -2670,7 +2675,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-251",
@@ -2692,7 +2697,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-252",
@@ -2717,7 +2722,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-254",
@@ -2739,7 +2744,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-255",
@@ -2758,7 +2763,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-256",
@@ -2791,7 +2796,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-258",
@@ -2812,7 +2817,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-259",
@@ -2833,7 +2838,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-260",
@@ -2852,7 +2857,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-261",
@@ -2878,7 +2883,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-262",
@@ -2900,7 +2905,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-263",
@@ -2923,7 +2928,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-264",
@@ -2944,7 +2949,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-265",
@@ -2963,7 +2968,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-266",
@@ -2985,7 +2990,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-267",
@@ -3004,7 +3009,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-268",
@@ -3026,7 +3031,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-269",
@@ -3047,7 +3052,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-270",
@@ -3068,7 +3073,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-271",
@@ -3090,7 +3095,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-272",
@@ -3111,7 +3116,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-273",
@@ -3130,7 +3135,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-274",
@@ -3151,7 +3156,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-275",
@@ -3173,7 +3178,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-276",
@@ -3200,7 +3205,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-277",
@@ -3221,7 +3226,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-278",
@@ -3240,7 +3245,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-279",
@@ -3259,7 +3264,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-280",
@@ -3281,7 +3286,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-281",
@@ -3302,7 +3307,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-282",
@@ -3324,7 +3329,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-284",
@@ -3343,7 +3348,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-285",
@@ -3364,7 +3369,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-286",
@@ -3386,7 +3391,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-287",
@@ -3405,7 +3410,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-288",
@@ -3424,7 +3429,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-289",
@@ -3446,7 +3451,7 @@
       "lambda"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-290",
@@ -3468,7 +3473,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-291",
@@ -3494,7 +3499,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-292",
@@ -3519,7 +3524,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-293",
@@ -3538,7 +3543,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-294",
@@ -3560,7 +3565,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-295",
@@ -3579,7 +3584,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-296",
@@ -3601,7 +3606,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-297",
@@ -3620,7 +3625,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-298",
@@ -3638,7 +3643,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-299",
@@ -3659,7 +3664,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-300",
@@ -3678,7 +3683,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-301",
@@ -3697,7 +3702,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-302",
@@ -3722,7 +3727,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-303",
@@ -3741,7 +3746,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-304",
@@ -3760,7 +3765,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-305",
@@ -3779,7 +3784,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-306",
@@ -3800,7 +3805,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-307",
@@ -3819,7 +3824,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-308",
@@ -3835,7 +3840,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-309",
@@ -3856,7 +3861,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.709Z"
   },
   {
     "id": "aws-saa-c03-310",
@@ -3878,7 +3883,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-311",
@@ -3892,7 +3897,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-312",
@@ -3902,8 +3907,8 @@
     "question": "A company has an application that runs on several Amazon EC2 instances. Each EC2 instance has multiple Amazon Elastic Block Store (Amazon EBS) data volumes attached to it. The application’s EC2 instance configuration and data need to be backed up nightly. The application also needs to be recoverable in a different AWS Region. Which solution will meet these requirements in the MOST operationally efficient way?",
     "options": [
       {
-        "letter": "C",
-        "text": "Create a backup plan by using AWS Backup to perform nightly backups. Copy the backups to another Region. Add the application’s EBS volumes as resources."
+        "letter": "B",
+        "text": "Create a backup plan by using AWS Backup to perform nightly backups. Copy the backups to another Region. Add the application’s EC2 instances as resources."
       }
     ],
     "correctAnswer": null,
@@ -3913,7 +3918,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-313",
@@ -3932,7 +3937,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.013Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-314",
@@ -3951,7 +3956,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-215",
@@ -3967,7 +3972,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-316",
@@ -3989,7 +3994,7 @@
       "sqs"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-317",
@@ -4010,7 +4015,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-318",
@@ -4043,7 +4048,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-319",
@@ -4064,7 +4069,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-320",
@@ -4085,7 +4090,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-321",
@@ -4106,7 +4111,7 @@
       "s3"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-322",
@@ -4125,7 +4130,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-323",
@@ -4144,7 +4149,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-324",
@@ -4154,8 +4159,8 @@
     "question": "A company wants to implement a disaster recovery plan for its primary on-premises file storage volume. The file storage volume is mounted from an Internet Small Computer Systems Interface (iSCSI) device on a local storage server. The file storage volume holds hundreds of terabytes (TB) of data. The company wants to ensure that end users retain immediate access to all file types from the on-premises systems without experiencing latency. Which solution will meet these requirements with the LEAST amount of change to the company's existing infrastructure?",
     "options": [
       {
-        "letter": "C",
-        "text": "Provision an AWS Storage Gateway Volume Gateway cached volume. Set the local cache to 10 TB. Mount the Volume Gateway cached volume to the existing file server by using iSCSI, and copy all files to the storage volume. Configure scheduled snapshots of the storage volume. To recover from a disaster, restore a snapshot to an Amazon Elastic Block Store (Amazon EBS) volume and attach the EBS volume to an Amazon EC2 instance."
+        "letter": "D",
+        "text": "Provision an AWS Storage Gateway Volume Gateway stored volume sized to hold all the existing data. Mount the Volume Gateway stored volume to the existing file server by using iSCSI, and copy all files to the storage volume. Configure scheduled snapshots of the storage volume. To recover from a disaster, restore a snapshot to an Amazon Elastic Block Store (Amazon EBS) volume and attach the EBS volume to an Amazon EC2 instance."
       }
     ],
     "correctAnswer": null,
@@ -4163,7 +4168,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-325",
@@ -4184,7 +4189,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-326",
@@ -4209,7 +4214,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-327",
@@ -4226,7 +4231,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.014Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-328",
@@ -4248,7 +4253,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-329",
@@ -4269,7 +4274,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-330",
@@ -4290,7 +4295,7 @@
       "rds"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-331",
@@ -4309,7 +4314,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-332",
@@ -4328,7 +4333,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-333",
@@ -4350,7 +4355,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-334",
@@ -4371,7 +4376,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-335",
@@ -4393,7 +4398,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-336",
@@ -4415,7 +4420,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-337",
@@ -4436,7 +4441,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-338",
@@ -4457,7 +4462,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-339",
@@ -4478,7 +4483,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-340",
@@ -4500,7 +4505,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-341",
@@ -4517,7 +4522,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-342",
@@ -4539,7 +4544,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-343",
@@ -4560,7 +4565,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-344",
@@ -4581,7 +4586,7 @@
       "sqs"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-345",
@@ -4600,7 +4605,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-346",
@@ -4621,7 +4626,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-347",
@@ -4642,7 +4647,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-348",
@@ -4661,7 +4666,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-349",
@@ -4682,7 +4687,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-350",
@@ -4707,7 +4712,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-351",
@@ -4726,7 +4731,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-352",
@@ -4745,7 +4750,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-353",
@@ -4766,7 +4771,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-354",
@@ -4788,7 +4793,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-355",
@@ -4807,7 +4812,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-356",
@@ -4828,7 +4833,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-357",
@@ -4853,7 +4858,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-358",
@@ -4876,7 +4881,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-359",
@@ -4897,7 +4902,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-360",
@@ -4918,7 +4923,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-361",
@@ -4937,7 +4942,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-362",
@@ -4956,7 +4961,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-363",
@@ -4975,7 +4980,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-364",
@@ -5001,7 +5006,7 @@
       "sns"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-365",
@@ -5022,7 +5027,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-367",
@@ -5041,7 +5046,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-368",
@@ -5062,7 +5067,7 @@
       "iam"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-369",
@@ -5083,7 +5088,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-370",
@@ -5105,7 +5110,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-371",
@@ -5128,7 +5133,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-372",
@@ -5138,8 +5143,8 @@
     "question": "A company wants to migrate an Oracle database to AWS. The database consists of a single table that contains millions of geographic information systems (GIS) images that are high resolution and are identified by a geographic code. When a natural disaster occurs, tens of thousands of images get updated every few minutes. Each geographic code has a single image or row that is associated with it. The company wants a solution that is highly available and scalable during such events. Which solution meets these requirements MOST cost-effectively?",
     "options": [
       {
-        "letter": "D",
-        "text": "Store the images in Amazon S3 buckets. Store geographic codes and image S3 URLs in a database table. Use Oracle running on an Amazon RDS Multi-AZ DB instance."
+        "letter": "B",
+        "text": "Store the images in Amazon S3 buckets. Store geographic codes and image S3 URLs in an Amazon DynamoDB table."
       }
     ],
     "correctAnswer": null,
@@ -5147,7 +5152,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-373",
@@ -5168,7 +5173,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-374",
@@ -5189,7 +5194,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-375",
@@ -5211,7 +5216,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-376",
@@ -5232,7 +5237,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-377",
@@ -5254,7 +5259,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-378",
@@ -5275,7 +5280,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-379",
@@ -5297,7 +5302,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-380",
@@ -5319,7 +5324,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-381",
@@ -5340,7 +5345,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-382",
@@ -5361,7 +5366,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-383",
@@ -5382,7 +5387,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-384",
@@ -5403,7 +5408,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-385",
@@ -5424,7 +5429,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-386",
@@ -5446,7 +5451,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-387",
@@ -5465,7 +5470,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-388",
@@ -5489,7 +5494,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-389",
@@ -5510,7 +5515,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-390",
@@ -5528,7 +5533,7 @@
       "auto scaling"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-391",
@@ -5551,7 +5556,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.015Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-392",
@@ -5573,7 +5578,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-393",
@@ -5594,7 +5599,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-394",
@@ -5616,7 +5621,7 @@
       "rds"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-395",
@@ -5637,7 +5642,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-396",
@@ -5658,7 +5663,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-397",
@@ -5683,7 +5688,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-398",
@@ -5702,7 +5707,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-399",
@@ -5721,7 +5726,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.710Z"
   },
   {
     "id": "aws-saa-c03-400",
@@ -5740,7 +5745,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-401",
@@ -5759,7 +5764,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-402",
@@ -5776,7 +5781,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-403",
@@ -5799,7 +5804,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-404",
@@ -5821,7 +5826,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-405",
@@ -5831,8 +5836,8 @@
     "question": "A solutions architect is designing the architecture for a software demonstration environment. The environment will run on Amazon EC2 instances in an Auto Scaling group behind an Application Load Balancer (ALB). The system will experience significant increases in traffic during working hours but is not required to operate on weekends. Which combination of actions should the solutions architect take to ensure that the system can scale to meet demand? (Choose two.)",
     "options": [
       {
-        "letter": "A",
-        "text": "Use AWS Auto Scaling to adjust the ALB capacity based on request rate."
+        "letter": "D",
+        "text": "Configure a target tracking policy that adjusts the number of EC2 instances in the Auto Scaling group based on demand."
       }
     ],
     "correctAnswer": null,
@@ -5843,7 +5848,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-406",
@@ -5868,7 +5873,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-407",
@@ -5887,7 +5892,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-408",
@@ -5906,7 +5911,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-409",
@@ -5927,7 +5932,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-410",
@@ -5948,7 +5953,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-411",
@@ -5967,7 +5972,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-412",
@@ -5988,7 +5993,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-413",
@@ -6009,7 +6014,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-414",
@@ -6023,7 +6028,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-415",
@@ -6044,7 +6049,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-416",
@@ -6069,7 +6074,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-417",
@@ -6087,7 +6092,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-418",
@@ -6109,7 +6114,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-419",
@@ -6118,6 +6123,10 @@
     "questionNumber": 419,
     "question": "A company uses AWS Organizations with all features enabled and runs multiple Amazon EC2 workloads in the ap-southeast-2 Region. The company has a service control policy (SCP) that prevents any resources from being created in any other Region. A security policy requires the company to encrypt all data at rest. An audit discovers that employees have created Amazon Elastic Block Store (Amazon EBS) volumes for EC2 instances without encrypting the volumes. The company wants any new EC2 instances that any IAM user or root user launches in ap-southeast-2 to use encrypted EBS volumes. The company wants a solution that will have minimal effect on employees who create EBS volumes. Which combination of steps will meet these requirements? (Choose two.)",
     "options": [
+      {
+        "letter": "A",
+        "text": "In each AWS account that contains EC2 instances in ap-southeast-2, specify the Default EBS volume encryption setting."
+      },
       {
         "letter": "C",
         "text": "Create an SCP. Attach the SCP to the root organizational unit (OU). Define the SCP to deny the ec2:CreateVolume action whenthe ec2:Encrypted condition equals false."
@@ -6131,7 +6140,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-420",
@@ -6152,7 +6161,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-421",
@@ -6173,7 +6182,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-422",
@@ -6194,7 +6203,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-423",
@@ -6208,7 +6217,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-424",
@@ -6229,7 +6238,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-425",
@@ -6250,7 +6259,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-426",
@@ -6260,8 +6269,8 @@
     "question": "A company needs to store data from its healthcare application. The application’s data frequently changes. A new regulation requires audit access at all levels of the stored data. The company hosts the application on an on-premises infrastructure that is running out of storage capacity. A solutions architect must securely migrate the existing data to AWS while satisfying the new regulation. Which solution will meet these requirements?",
     "options": [
       {
-        "letter": "D",
-        "text": "Use AWS Storage Gateway to move the existing data to Amazon S3. Use AWS CloudTrail to log management events."
+        "letter": "A",
+        "text": "Use AWS Storage Gateway to move the existing data to Amazon S3. Use AWS CloudTrail to log data events for the S3 bucket."
       }
     ],
     "correctAnswer": null,
@@ -6269,7 +6278,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-427",
@@ -6288,7 +6297,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-428",
@@ -6309,7 +6318,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-429",
@@ -6323,7 +6332,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-430",
@@ -6348,7 +6357,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-431",
@@ -6370,7 +6379,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-432",
@@ -6389,7 +6398,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-433",
@@ -6408,7 +6417,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-434",
@@ -6425,7 +6434,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-435",
@@ -6444,7 +6453,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-436",
@@ -6465,7 +6474,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-437",
@@ -6487,7 +6496,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-438",
@@ -6508,7 +6517,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-439",
@@ -6530,7 +6539,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-440",
@@ -6564,7 +6573,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-441",
@@ -6586,7 +6595,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-442",
@@ -6605,7 +6614,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-443",
@@ -6624,7 +6633,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-444",
@@ -6646,7 +6655,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-445",
@@ -6665,7 +6674,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-446",
@@ -6686,7 +6695,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-447",
@@ -6707,7 +6716,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-448",
@@ -6728,7 +6737,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-449",
@@ -6747,7 +6756,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-450",
@@ -6766,7 +6775,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-451",
@@ -6791,7 +6800,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-452",
@@ -6812,7 +6821,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-453",
@@ -6834,7 +6843,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-454",
@@ -6853,7 +6862,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-455",
@@ -6876,7 +6885,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-456",
@@ -6897,7 +6906,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-457",
@@ -6916,7 +6925,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-458",
@@ -6939,7 +6948,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.016Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-459",
@@ -6960,7 +6969,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-460",
@@ -6981,7 +6990,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-461",
@@ -7003,7 +7012,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-462",
@@ -7025,7 +7034,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-463",
@@ -7046,7 +7055,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-464",
@@ -7067,7 +7076,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-465",
@@ -7088,7 +7097,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-466",
@@ -7110,7 +7119,7 @@
       "rds"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-467",
@@ -7129,7 +7138,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-468",
@@ -7150,7 +7159,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-469",
@@ -7171,7 +7180,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-470",
@@ -7192,7 +7201,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-471",
@@ -7214,7 +7223,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-472",
@@ -7233,7 +7242,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-473",
@@ -7254,7 +7263,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-474",
@@ -7275,7 +7284,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-475",
@@ -7294,7 +7303,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-476",
@@ -7315,7 +7324,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-477",
@@ -7331,7 +7340,7 @@
       "iam"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-478",
@@ -7350,7 +7359,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-479",
@@ -7372,7 +7381,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-480",
@@ -7394,7 +7403,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-481",
@@ -7415,7 +7424,7 @@
       "rds"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-482",
@@ -7436,7 +7445,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-483",
@@ -7455,7 +7464,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-484",
@@ -7474,7 +7483,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-485",
@@ -7493,7 +7502,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-486",
@@ -7512,7 +7521,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-487",
@@ -7533,7 +7542,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-488",
@@ -7552,7 +7561,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-489",
@@ -7573,7 +7582,7 @@
       "sns"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-490",
@@ -7594,7 +7603,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-491",
@@ -7608,7 +7617,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-492",
@@ -7629,7 +7638,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-493",
@@ -7648,7 +7657,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-494",
@@ -7664,7 +7673,7 @@
       "ec2"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-495",
@@ -7685,7 +7694,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-496",
@@ -7708,7 +7717,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-497",
@@ -7731,7 +7740,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-498",
@@ -7752,7 +7761,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-499",
@@ -7771,7 +7780,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-500",
@@ -7794,7 +7803,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-501",
@@ -7815,7 +7824,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-502",
@@ -7837,7 +7846,7 @@
       "aurora"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-503",
@@ -7858,7 +7867,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-504",
@@ -7879,7 +7888,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-505",
@@ -7901,7 +7910,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-506",
@@ -7920,7 +7929,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-507",
@@ -7939,7 +7948,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-508",
@@ -7964,7 +7973,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-509",
@@ -7985,7 +7994,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-510",
@@ -8006,7 +8015,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-511",
@@ -8016,8 +8025,8 @@
     "question": "A company is developing software that uses a PostgreSQL database schema. The company needs to configure multiple development environments and databases for the company's developers. On average, each development environment is used for half of the 8-hour workday. Which solution will meet these requirements MOST cost-effectively?",
     "options": [
       {
-        "letter": "C",
-        "text": "Configure each development environment with its own Amazon Aurora On-Demand PostgreSQL-Compatible database"
+        "letter": "B",
+        "text": "Configure each development environment with its own Amazon RDS for PostgreSQL database. Stop the RDS instance outside of the 8-hour workday."
       }
     ],
     "correctAnswer": null,
@@ -8025,7 +8034,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-512",
@@ -8044,7 +8053,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-513",
@@ -8063,7 +8072,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.711Z"
   },
   {
     "id": "aws-saa-c03-514",
@@ -8084,7 +8093,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-515",
@@ -8107,7 +8116,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-516",
@@ -8126,7 +8135,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-517",
@@ -8147,7 +8156,7 @@
       "s3"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-518",
@@ -8168,7 +8177,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-519",
@@ -8187,7 +8196,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-520",
@@ -8208,7 +8217,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-521",
@@ -8227,7 +8236,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-522",
@@ -8250,7 +8259,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-523",
@@ -8269,7 +8278,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-524",
@@ -8290,7 +8299,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-525",
@@ -8309,7 +8318,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.017Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-526",
@@ -8330,7 +8339,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-527",
@@ -8353,7 +8362,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-529",
@@ -8372,7 +8381,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-530",
@@ -8391,7 +8400,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-531",
@@ -8412,7 +8421,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-532",
@@ -8435,7 +8444,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-533",
@@ -8456,7 +8465,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-534",
@@ -8478,7 +8487,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-535",
@@ -8501,7 +8510,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-536",
@@ -8526,7 +8535,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-537",
@@ -8547,7 +8556,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-538",
@@ -8568,7 +8577,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-539",
@@ -8582,7 +8591,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-540",
@@ -8601,7 +8610,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-541",
@@ -8624,7 +8633,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-542",
@@ -8646,7 +8655,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-543",
@@ -8662,7 +8671,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-544",
@@ -8681,7 +8690,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-545",
@@ -8700,7 +8709,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-546",
@@ -8719,7 +8728,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-547",
@@ -8740,7 +8749,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-548",
@@ -8759,7 +8768,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-549",
@@ -8780,7 +8789,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-550",
@@ -8805,7 +8814,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-551",
@@ -8826,7 +8835,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-552",
@@ -8847,7 +8856,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-553",
@@ -8868,7 +8877,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-554",
@@ -8887,7 +8896,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-555",
@@ -8910,7 +8919,7 @@
       "sqs"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-556",
@@ -8931,7 +8940,7 @@
       "ec2"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-557",
@@ -8956,7 +8965,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-558",
@@ -8977,7 +8986,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-559",
@@ -8998,7 +9007,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-560",
@@ -9017,7 +9026,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-561",
@@ -9036,7 +9045,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-562",
@@ -9062,7 +9071,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-563",
@@ -9081,7 +9090,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-564",
@@ -9100,7 +9109,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-565",
@@ -9119,7 +9128,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-566",
@@ -9141,7 +9150,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-567",
@@ -9160,7 +9169,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-568",
@@ -9179,7 +9188,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-569",
@@ -9193,7 +9202,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-570",
@@ -9214,7 +9223,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-571",
@@ -9233,7 +9242,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-572",
@@ -9252,7 +9261,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-573",
@@ -9273,7 +9282,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-574",
@@ -9294,7 +9303,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-575",
@@ -9313,7 +9322,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-576",
@@ -9334,7 +9343,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-577",
@@ -9355,7 +9364,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-578",
@@ -9374,7 +9383,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-579",
@@ -9395,7 +9404,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-580",
@@ -9414,7 +9423,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-581",
@@ -9431,7 +9440,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-582",
@@ -9450,7 +9459,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-583",
@@ -9469,7 +9478,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-584",
@@ -9490,7 +9499,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-585",
@@ -9511,7 +9520,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-586",
@@ -9530,7 +9539,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.018Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-587",
@@ -9549,7 +9558,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-588",
@@ -9570,7 +9579,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-589",
@@ -9592,7 +9601,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-590",
@@ -9613,7 +9622,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-591",
@@ -9632,7 +9641,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-592",
@@ -9651,7 +9660,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-593",
@@ -9670,7 +9679,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-594",
@@ -9691,7 +9700,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-595",
@@ -9713,7 +9722,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-596",
@@ -9734,7 +9743,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-597",
@@ -9755,7 +9764,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-598",
@@ -9778,7 +9787,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-599",
@@ -9794,7 +9803,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.712Z"
   },
   {
     "id": "aws-saa-c03-600",
@@ -9815,7 +9824,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-601",
@@ -9837,7 +9846,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-602",
@@ -9858,7 +9867,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-603",
@@ -9879,7 +9888,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-604",
@@ -9900,7 +9909,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.020Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-605",
@@ -9919,7 +9928,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-606",
@@ -9940,7 +9949,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-607",
@@ -9961,7 +9970,7 @@
       "rds"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-608",
@@ -9977,7 +9986,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-609",
@@ -9999,7 +10008,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-610",
@@ -10022,7 +10031,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-611",
@@ -10043,7 +10052,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-612",
@@ -10065,7 +10074,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-613",
@@ -10084,7 +10093,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-614",
@@ -10107,7 +10116,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-615",
@@ -10126,7 +10135,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-616",
@@ -10148,7 +10157,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-617",
@@ -10167,7 +10176,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-618",
@@ -10188,7 +10197,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-619",
@@ -10207,7 +10216,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-620",
@@ -10226,7 +10235,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-621",
@@ -10247,7 +10256,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-622",
@@ -10270,7 +10279,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-623",
@@ -10289,7 +10298,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-624",
@@ -10308,7 +10317,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-625",
@@ -10327,7 +10336,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-626",
@@ -10348,7 +10357,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-627",
@@ -10367,7 +10376,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-628",
@@ -10388,7 +10397,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-629",
@@ -10409,7 +10418,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-630",
@@ -10428,7 +10437,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-631",
@@ -10447,7 +10456,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-632",
@@ -10468,7 +10477,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-633",
@@ -10489,7 +10498,7 @@
       "rds"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.713Z"
   },
   {
     "id": "aws-saa-c03-634",
@@ -10510,7 +10519,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-635",
@@ -10531,7 +10540,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-636",
@@ -10554,7 +10563,7 @@
       "sns"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-637",
@@ -10577,7 +10586,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-638",
@@ -10593,7 +10602,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-639",
@@ -10615,7 +10624,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-640",
@@ -10637,7 +10646,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-641",
@@ -10656,7 +10665,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-642",
@@ -10678,7 +10687,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-643",
@@ -10697,7 +10706,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-644",
@@ -10716,7 +10725,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-645",
@@ -10735,7 +10744,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-646",
@@ -10756,7 +10765,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-647",
@@ -10775,7 +10784,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-648",
@@ -10794,7 +10803,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-649",
@@ -10815,7 +10824,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-650",
@@ -10834,7 +10843,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-651",
@@ -10850,7 +10859,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-652",
@@ -10864,7 +10873,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-653",
@@ -10880,7 +10889,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-654",
@@ -10896,7 +10905,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-655",
@@ -10914,7 +10923,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-657",
@@ -10930,7 +10939,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   },
   {
     "id": "aws-saa-c03-659",
@@ -10947,6 +10956,6 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-05T08:33:46.021Z"
+    "lastUpdated": "2026-08-06T08:33:46.714Z"
   }
 ]
