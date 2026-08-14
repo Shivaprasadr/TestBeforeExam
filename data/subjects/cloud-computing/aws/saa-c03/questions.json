@@ -25,7 +25,7 @@
       "athena"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.612Z"
   },
   {
     "id": "aws-saa-c03-007",
@@ -44,7 +44,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.612Z"
   },
   {
     "id": "aws-saa-c03-008",
@@ -63,7 +63,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.612Z"
   },
   {
     "id": "aws-saa-c03-009",
@@ -82,7 +82,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-010",
@@ -101,7 +101,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-011",
@@ -123,7 +123,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-012",
@@ -145,7 +145,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-013",
@@ -166,7 +166,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-014",
@@ -188,7 +188,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-015",
@@ -209,7 +209,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-016",
@@ -231,7 +231,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-017",
@@ -253,7 +253,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-018",
@@ -279,7 +279,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-019",
@@ -295,7 +295,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-020",
@@ -316,7 +316,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-022",
@@ -337,7 +337,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-023",
@@ -358,7 +358,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-024",
@@ -379,7 +379,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-025",
@@ -401,7 +401,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-026",
@@ -422,7 +422,7 @@
       "s3"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.116Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-027",
@@ -441,7 +441,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-028",
@@ -460,7 +460,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-029",
@@ -482,7 +482,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-030",
@@ -503,7 +503,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-031",
@@ -525,7 +525,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-032",
@@ -544,7 +544,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-033",
@@ -563,7 +563,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-034",
@@ -582,7 +582,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-035",
@@ -605,7 +605,7 @@
       "elb"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-036",
@@ -626,7 +626,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-037",
@@ -647,7 +647,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-038",
@@ -668,7 +668,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-039",
@@ -689,7 +689,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-040",
@@ -708,7 +708,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-041",
@@ -730,7 +730,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-042",
@@ -753,7 +753,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-043",
@@ -774,7 +774,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-044",
@@ -807,7 +807,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-045",
@@ -833,7 +833,7 @@
       "sns"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-046",
@@ -852,7 +852,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-047",
@@ -873,7 +873,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-048",
@@ -894,7 +894,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-049",
@@ -913,7 +913,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-050",
@@ -1602,7 +1602,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-186",
@@ -1623,7 +1623,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-187",
@@ -1646,7 +1646,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-188",
@@ -1667,7 +1667,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-189",
@@ -1690,7 +1690,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-190",
@@ -1709,7 +1709,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-201",
@@ -1728,7 +1728,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-202",
@@ -1749,7 +1749,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-203",
@@ -1771,7 +1771,7 @@
       "sqs"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-204",
@@ -1793,7 +1793,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-205",
@@ -1814,7 +1814,7 @@
       "cloudfront"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-206",
@@ -1835,7 +1835,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-208",
@@ -1857,7 +1857,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-209",
@@ -1878,7 +1878,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-211",
@@ -1903,7 +1903,7 @@
       "sns"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-212",
@@ -1924,7 +1924,7 @@
       "s3"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-213",
@@ -1943,7 +1943,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-214",
@@ -1964,7 +1964,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-215",
@@ -1983,7 +1983,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-216",
@@ -2005,7 +2005,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-217",
@@ -2027,7 +2027,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-218",
@@ -2048,7 +2048,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-219",
@@ -2064,7 +2064,7 @@
       "ec2"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-220",
@@ -2083,7 +2083,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-221",
@@ -2104,7 +2104,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-222",
@@ -2125,7 +2125,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-223",
@@ -2148,7 +2148,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-225",
@@ -2167,7 +2167,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-226",
@@ -2193,7 +2193,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-227",
@@ -2214,7 +2214,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-228",
@@ -2235,7 +2235,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-229",
@@ -2256,7 +2256,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-230",
@@ -2275,7 +2275,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-231",
@@ -2297,7 +2297,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-232",
@@ -2323,7 +2323,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-233",
@@ -2346,7 +2346,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-234",
@@ -2368,7 +2368,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.613Z"
   },
   {
     "id": "aws-saa-c03-236",
@@ -2389,7 +2389,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-237",
@@ -2411,7 +2411,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-238",
@@ -2432,7 +2432,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-239",
@@ -2454,7 +2454,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-240",
@@ -2473,7 +2473,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.117Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-241",
@@ -2492,7 +2492,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-242",
@@ -2513,7 +2513,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-243",
@@ -2534,7 +2534,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-244",
@@ -2555,7 +2555,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-245",
@@ -2577,7 +2577,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-246",
@@ -2598,7 +2598,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-247",
@@ -2614,7 +2614,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-248",
@@ -2635,7 +2635,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-249",
@@ -2654,7 +2654,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-250",
@@ -2675,7 +2675,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-251",
@@ -2697,7 +2697,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-252",
@@ -2722,7 +2722,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-254",
@@ -2744,7 +2744,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-255",
@@ -2763,7 +2763,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-256",
@@ -2796,7 +2796,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-258",
@@ -2817,7 +2817,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-259",
@@ -2838,7 +2838,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-260",
@@ -2857,7 +2857,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-261",
@@ -2883,7 +2883,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-262",
@@ -2905,7 +2905,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-263",
@@ -2928,7 +2928,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-264",
@@ -2949,7 +2949,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-265",
@@ -2968,7 +2968,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-266",
@@ -2990,7 +2990,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-267",
@@ -3009,7 +3009,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-268",
@@ -3031,7 +3031,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-269",
@@ -3052,7 +3052,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-270",
@@ -3073,7 +3073,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-271",
@@ -3095,7 +3095,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-272",
@@ -3116,7 +3116,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-273",
@@ -3135,7 +3135,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-274",
@@ -3156,7 +3156,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-275",
@@ -3178,7 +3178,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-276",
@@ -3205,7 +3205,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-277",
@@ -3226,7 +3226,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-278",
@@ -3245,7 +3245,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-279",
@@ -3264,7 +3264,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-280",
@@ -3286,7 +3286,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-281",
@@ -3307,7 +3307,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-282",
@@ -3329,7 +3329,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-284",
@@ -3348,7 +3348,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-285",
@@ -3369,7 +3369,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-286",
@@ -3391,7 +3391,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-287",
@@ -3410,7 +3410,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-288",
@@ -3429,7 +3429,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-289",
@@ -3451,7 +3451,7 @@
       "lambda"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-290",
@@ -3473,7 +3473,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-291",
@@ -3499,7 +3499,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-292",
@@ -3524,7 +3524,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-293",
@@ -3543,7 +3543,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-294",
@@ -3565,7 +3565,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-295",
@@ -3584,7 +3584,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-296",
@@ -3606,7 +3606,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-297",
@@ -3625,7 +3625,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-298",
@@ -3643,7 +3643,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-299",
@@ -3664,7 +3664,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-300",
@@ -3683,7 +3683,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-301",
@@ -3702,7 +3702,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-302",
@@ -3727,7 +3727,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-303",
@@ -3746,7 +3746,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-304",
@@ -3765,7 +3765,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-305",
@@ -3784,7 +3784,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.118Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-306",
@@ -3805,7 +3805,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.614Z"
   },
   {
     "id": "aws-saa-c03-307",
@@ -3824,7 +3824,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-308",
@@ -3840,7 +3840,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-309",
@@ -3861,7 +3861,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-310",
@@ -3883,7 +3883,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-311",
@@ -3897,7 +3897,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-312",
@@ -3918,7 +3918,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-313",
@@ -3937,7 +3937,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-314",
@@ -3956,7 +3956,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-215",
@@ -3972,7 +3972,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-316",
@@ -3994,7 +3994,7 @@
       "sqs"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-317",
@@ -4015,7 +4015,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-318",
@@ -4048,7 +4048,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-319",
@@ -4069,7 +4069,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-320",
@@ -4090,7 +4090,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-321",
@@ -4111,7 +4111,7 @@
       "s3"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-322",
@@ -4130,7 +4130,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-323",
@@ -4149,7 +4149,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-324",
@@ -4168,7 +4168,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-325",
@@ -4189,7 +4189,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-326",
@@ -4214,7 +4214,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-327",
@@ -4231,7 +4231,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-328",
@@ -4253,7 +4253,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-329",
@@ -4274,7 +4274,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-330",
@@ -4295,7 +4295,7 @@
       "rds"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-331",
@@ -4314,7 +4314,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-332",
@@ -4333,7 +4333,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-333",
@@ -4355,7 +4355,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-334",
@@ -4376,7 +4376,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-335",
@@ -4398,7 +4398,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-336",
@@ -4420,7 +4420,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-337",
@@ -4441,7 +4441,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-338",
@@ -4462,7 +4462,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-339",
@@ -4483,7 +4483,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-340",
@@ -4505,7 +4505,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-341",
@@ -4522,7 +4522,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-342",
@@ -4544,7 +4544,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-343",
@@ -4565,7 +4565,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-344",
@@ -4586,7 +4586,7 @@
       "sqs"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-345",
@@ -4605,7 +4605,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-346",
@@ -4626,7 +4626,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-347",
@@ -4647,7 +4647,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-348",
@@ -4666,7 +4666,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-349",
@@ -4687,7 +4687,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-350",
@@ -4712,7 +4712,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-351",
@@ -4731,7 +4731,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-352",
@@ -4750,7 +4750,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-353",
@@ -4771,7 +4771,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-354",
@@ -4793,7 +4793,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-355",
@@ -4812,7 +4812,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-356",
@@ -4833,7 +4833,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-357",
@@ -4858,7 +4858,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-358",
@@ -4881,7 +4881,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-359",
@@ -4902,7 +4902,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-360",
@@ -4923,7 +4923,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-361",
@@ -4942,7 +4942,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-362",
@@ -4961,7 +4961,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-363",
@@ -4980,7 +4980,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-364",
@@ -5006,7 +5006,7 @@
       "sns"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-365",
@@ -5027,7 +5027,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-367",
@@ -5046,7 +5046,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-368",
@@ -5067,7 +5067,7 @@
       "iam"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-369",
@@ -5088,7 +5088,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-370",
@@ -5110,7 +5110,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-371",
@@ -5133,7 +5133,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-372",
@@ -5152,7 +5152,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-373",
@@ -5173,7 +5173,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-374",
@@ -5194,7 +5194,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-375",
@@ -5216,7 +5216,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-376",
@@ -5237,7 +5237,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-377",
@@ -5259,7 +5259,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-378",
@@ -5280,7 +5280,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-379",
@@ -5302,7 +5302,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-380",
@@ -5324,7 +5324,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-381",
@@ -5345,7 +5345,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-382",
@@ -5366,7 +5366,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-383",
@@ -5387,7 +5387,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-384",
@@ -5408,7 +5408,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-385",
@@ -5429,7 +5429,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-386",
@@ -5451,7 +5451,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-387",
@@ -5470,7 +5470,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-388",
@@ -5494,7 +5494,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-389",
@@ -5515,7 +5515,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-390",
@@ -5533,7 +5533,7 @@
       "auto scaling"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-391",
@@ -5556,7 +5556,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-392",
@@ -5578,7 +5578,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-393",
@@ -5599,7 +5599,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-394",
@@ -5621,7 +5621,7 @@
       "rds"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-395",
@@ -5642,7 +5642,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-396",
@@ -5663,7 +5663,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-397",
@@ -5688,7 +5688,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-398",
@@ -5707,7 +5707,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.615Z"
   },
   {
     "id": "aws-saa-c03-399",
@@ -5726,7 +5726,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-400",
@@ -5745,7 +5745,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-401",
@@ -5764,7 +5764,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-402",
@@ -5781,7 +5781,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-403",
@@ -5804,7 +5804,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-404",
@@ -5826,7 +5826,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-405",
@@ -5848,7 +5848,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-406",
@@ -5873,7 +5873,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-407",
@@ -5892,7 +5892,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.119Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-408",
@@ -5911,7 +5911,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-409",
@@ -5932,7 +5932,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-410",
@@ -5953,7 +5953,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-411",
@@ -5972,7 +5972,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-412",
@@ -5993,7 +5993,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-413",
@@ -6014,7 +6014,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-414",
@@ -6028,7 +6028,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-415",
@@ -6049,7 +6049,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-416",
@@ -6074,7 +6074,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-417",
@@ -6092,7 +6092,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-418",
@@ -6114,7 +6114,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-419",
@@ -6140,7 +6140,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-420",
@@ -6161,7 +6161,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-421",
@@ -6182,7 +6182,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-422",
@@ -6203,7 +6203,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-423",
@@ -6217,7 +6217,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-424",
@@ -6238,7 +6238,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-425",
@@ -6259,7 +6259,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-426",
@@ -6278,7 +6278,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-427",
@@ -6297,7 +6297,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-428",
@@ -6318,7 +6318,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-429",
@@ -6332,7 +6332,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-430",
@@ -6357,7 +6357,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-431",
@@ -6379,7 +6379,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-432",
@@ -6398,7 +6398,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-433",
@@ -6417,7 +6417,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-434",
@@ -6434,7 +6434,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-435",
@@ -6453,7 +6453,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-436",
@@ -6474,7 +6474,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-437",
@@ -6496,7 +6496,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-438",
@@ -6517,7 +6517,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-439",
@@ -6539,7 +6539,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-440",
@@ -6573,7 +6573,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-441",
@@ -6595,7 +6595,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-442",
@@ -6614,7 +6614,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-443",
@@ -6633,7 +6633,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-444",
@@ -6655,7 +6655,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-445",
@@ -6674,7 +6674,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-446",
@@ -6695,7 +6695,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-447",
@@ -6716,7 +6716,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-448",
@@ -6737,7 +6737,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-449",
@@ -6756,7 +6756,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-450",
@@ -6775,7 +6775,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-451",
@@ -6800,7 +6800,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-452",
@@ -6821,7 +6821,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-453",
@@ -6843,7 +6843,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-454",
@@ -6862,7 +6862,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-455",
@@ -6885,7 +6885,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-456",
@@ -6906,7 +6906,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-457",
@@ -6925,7 +6925,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-458",
@@ -6948,7 +6948,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-459",
@@ -6969,7 +6969,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-460",
@@ -6990,7 +6990,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-461",
@@ -7012,7 +7012,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-462",
@@ -7034,7 +7034,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-463",
@@ -7055,7 +7055,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-464",
@@ -7076,7 +7076,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-465",
@@ -7097,7 +7097,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-466",
@@ -7119,7 +7119,7 @@
       "rds"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-467",
@@ -7138,7 +7138,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-468",
@@ -7159,7 +7159,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-469",
@@ -7180,7 +7180,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-470",
@@ -7201,7 +7201,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-471",
@@ -7223,7 +7223,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-472",
@@ -7242,7 +7242,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-473",
@@ -7263,7 +7263,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-474",
@@ -7284,7 +7284,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-475",
@@ -7303,7 +7303,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-476",
@@ -7324,7 +7324,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-477",
@@ -7340,7 +7340,7 @@
       "iam"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-478",
@@ -7359,7 +7359,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-479",
@@ -7381,7 +7381,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-480",
@@ -7403,7 +7403,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-481",
@@ -7424,7 +7424,7 @@
       "rds"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-482",
@@ -7445,7 +7445,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-483",
@@ -7464,7 +7464,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-484",
@@ -7483,7 +7483,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-485",
@@ -7502,7 +7502,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-486",
@@ -7521,7 +7521,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-487",
@@ -7542,7 +7542,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-488",
@@ -7561,7 +7561,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-489",
@@ -7582,7 +7582,7 @@
       "sns"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-490",
@@ -7603,7 +7603,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-491",
@@ -7617,7 +7617,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-492",
@@ -7638,7 +7638,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-493",
@@ -7657,7 +7657,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-494",
@@ -7673,7 +7673,7 @@
       "ec2"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-495",
@@ -7694,7 +7694,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-496",
@@ -7717,7 +7717,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-497",
@@ -7740,7 +7740,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-498",
@@ -7761,7 +7761,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-499",
@@ -7780,7 +7780,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-500",
@@ -7803,7 +7803,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-501",
@@ -7824,7 +7824,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-502",
@@ -7846,7 +7846,7 @@
       "aurora"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-503",
@@ -7867,7 +7867,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-504",
@@ -7888,7 +7888,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-505",
@@ -7910,7 +7910,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-506",
@@ -7929,7 +7929,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-507",
@@ -7948,7 +7948,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-508",
@@ -7973,7 +7973,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-509",
@@ -7994,7 +7994,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-510",
@@ -8015,7 +8015,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-511",
@@ -8034,7 +8034,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.616Z"
   },
   {
     "id": "aws-saa-c03-512",
@@ -8053,7 +8053,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-513",
@@ -8072,7 +8072,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-514",
@@ -8093,7 +8093,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-515",
@@ -8116,7 +8116,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-516",
@@ -8135,7 +8135,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.120Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-517",
@@ -8156,7 +8156,7 @@
       "s3"
     ],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-518",
@@ -8177,7 +8177,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-519",
@@ -8196,7 +8196,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-520",
@@ -8217,7 +8217,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-521",
@@ -8236,7 +8236,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-522",
@@ -8259,7 +8259,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-523",
@@ -8278,7 +8278,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-524",
@@ -8299,7 +8299,7 @@
       "iam"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-525",
@@ -8318,7 +8318,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-526",
@@ -8339,7 +8339,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-527",
@@ -8362,7 +8362,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-529",
@@ -8381,7 +8381,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-530",
@@ -8400,7 +8400,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-531",
@@ -8421,7 +8421,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-532",
@@ -8444,7 +8444,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-533",
@@ -8465,7 +8465,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-534",
@@ -8487,7 +8487,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-535",
@@ -8510,7 +8510,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-536",
@@ -8535,7 +8535,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-537",
@@ -8556,7 +8556,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-538",
@@ -8577,7 +8577,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-539",
@@ -8591,7 +8591,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-540",
@@ -8610,7 +8610,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-541",
@@ -8633,7 +8633,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-542",
@@ -8655,7 +8655,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-543",
@@ -8671,7 +8671,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-544",
@@ -8690,7 +8690,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-545",
@@ -8709,7 +8709,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-546",
@@ -8728,7 +8728,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-547",
@@ -8749,7 +8749,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-548",
@@ -8768,7 +8768,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-549",
@@ -8789,7 +8789,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-550",
@@ -8814,7 +8814,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-551",
@@ -8835,7 +8835,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-552",
@@ -8856,7 +8856,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-553",
@@ -8877,7 +8877,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-554",
@@ -8896,7 +8896,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-555",
@@ -8919,7 +8919,7 @@
       "sqs"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-556",
@@ -8940,7 +8940,7 @@
       "ec2"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-557",
@@ -8965,7 +8965,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-558",
@@ -8986,7 +8986,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-559",
@@ -9007,7 +9007,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-560",
@@ -9026,7 +9026,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-561",
@@ -9045,7 +9045,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-562",
@@ -9071,7 +9071,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-563",
@@ -9090,7 +9090,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "beginner",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-564",
@@ -9109,7 +9109,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-565",
@@ -9128,7 +9128,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-566",
@@ -9150,7 +9150,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-567",
@@ -9169,7 +9169,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-568",
@@ -9188,7 +9188,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-569",
@@ -9202,7 +9202,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-570",
@@ -9223,7 +9223,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-571",
@@ -9242,7 +9242,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-572",
@@ -9261,7 +9261,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-573",
@@ -9282,7 +9282,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-574",
@@ -9303,7 +9303,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-575",
@@ -9322,7 +9322,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-576",
@@ -9343,7 +9343,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-577",
@@ -9364,7 +9364,7 @@
       "cloudfront"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-578",
@@ -9383,7 +9383,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-579",
@@ -9404,7 +9404,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-580",
@@ -9423,7 +9423,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.617Z"
   },
   {
     "id": "aws-saa-c03-581",
@@ -9440,7 +9440,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-582",
@@ -9459,7 +9459,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-583",
@@ -9478,7 +9478,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-584",
@@ -9499,7 +9499,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-585",
@@ -9520,7 +9520,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-586",
@@ -9539,7 +9539,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-587",
@@ -9558,7 +9558,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-588",
@@ -9579,7 +9579,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-589",
@@ -9601,7 +9601,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-590",
@@ -9622,7 +9622,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.121Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-591",
@@ -9641,7 +9641,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-592",
@@ -9660,7 +9660,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-593",
@@ -9679,7 +9679,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-594",
@@ -9700,7 +9700,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-595",
@@ -9722,7 +9722,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-596",
@@ -9743,7 +9743,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-597",
@@ -9764,7 +9764,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-598",
@@ -9787,7 +9787,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-599",
@@ -9803,7 +9803,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-600",
@@ -9824,7 +9824,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-601",
@@ -9846,7 +9846,7 @@
       "aurora"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-602",
@@ -9867,7 +9867,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-603",
@@ -9888,7 +9888,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-604",
@@ -9909,7 +9909,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-605",
@@ -9928,7 +9928,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-606",
@@ -9949,7 +9949,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-607",
@@ -9970,7 +9970,7 @@
       "rds"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-608",
@@ -9986,7 +9986,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-609",
@@ -10008,7 +10008,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-610",
@@ -10031,7 +10031,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-611",
@@ -10052,7 +10052,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-612",
@@ -10074,7 +10074,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-613",
@@ -10093,7 +10093,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-614",
@@ -10116,7 +10116,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-615",
@@ -10135,7 +10135,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-616",
@@ -10157,7 +10157,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-617",
@@ -10176,7 +10176,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-618",
@@ -10197,7 +10197,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.122Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-619",
@@ -10216,7 +10216,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-620",
@@ -10235,7 +10235,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-621",
@@ -10256,7 +10256,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-622",
@@ -10279,7 +10279,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-623",
@@ -10298,7 +10298,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-624",
@@ -10317,7 +10317,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-625",
@@ -10336,7 +10336,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-626",
@@ -10357,7 +10357,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-627",
@@ -10376,7 +10376,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-628",
@@ -10397,7 +10397,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-629",
@@ -10418,7 +10418,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-630",
@@ -10437,7 +10437,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-631",
@@ -10456,7 +10456,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-632",
@@ -10477,7 +10477,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-633",
@@ -10498,7 +10498,7 @@
       "rds"
     ],
     "difficulty": "advanced",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-634",
@@ -10519,7 +10519,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-635",
@@ -10540,7 +10540,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-636",
@@ -10563,7 +10563,7 @@
       "sns"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-637",
@@ -10586,7 +10586,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-638",
@@ -10602,7 +10602,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-639",
@@ -10624,7 +10624,7 @@
       "vpc"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-640",
@@ -10646,7 +10646,7 @@
       "lambda"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-641",
@@ -10665,7 +10665,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-642",
@@ -10687,7 +10687,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-643",
@@ -10706,7 +10706,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-644",
@@ -10725,7 +10725,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.618Z"
   },
   {
     "id": "aws-saa-c03-645",
@@ -10744,7 +10744,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-646",
@@ -10765,7 +10765,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-647",
@@ -10784,7 +10784,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-648",
@@ -10803,7 +10803,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-649",
@@ -10824,7 +10824,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-650",
@@ -10843,7 +10843,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-651",
@@ -10859,7 +10859,7 @@
       "s3"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-652",
@@ -10873,7 +10873,7 @@
     "explanation": "No explanation provided",
     "tags": [],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-653",
@@ -10889,7 +10889,7 @@
       "rds"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-654",
@@ -10905,7 +10905,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-655",
@@ -10923,7 +10923,7 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-657",
@@ -10939,7 +10939,7 @@
       "ec2"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   },
   {
     "id": "aws-saa-c03-659",
@@ -10956,6 +10956,6 @@
       "auto scaling"
     ],
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-13T07:24:35.123Z"
+    "lastUpdated": "2026-08-14T07:22:10.619Z"
   }
 ]
